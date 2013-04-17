@@ -1,3 +1,4 @@
 medcode	stdterm	attrstring	linkto	comment
 600001	sample synonym	TT	1	a sample term
 600002	another synonym	TT	2	another sample
+600003	and yet another synonym	ITTT	2	edited online
