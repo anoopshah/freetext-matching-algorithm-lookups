@@ -1,3 +1,3 @@
-medcode	term	stdterm	attrstring	linkto	comment
-600001	Sample synonym NOS	sample synonym	TT	1	a sample term
-600002	Another synonym	another synonym	TT	2	another sample
+medcode	stdterm	attrstring	linkto	comment
+600001	sample synonym	TT	1	a sample term
+600002	another synonym	TT	2	another sample
