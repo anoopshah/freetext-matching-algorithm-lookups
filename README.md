@@ -104,7 +104,8 @@ Format: Tab-separated text file with no quotes, sorted by medcode
     * M -- Read diagnosis term
     * N -- test result which may be qualitative; the result may be 'normal' or 'abnormal'
     * P -- pregnancy term; numbers such as 28/40 are interpreted as gestational age
-    * S -- sick note; duration may be stated
+    * S -- sick note; duration may be state
+    * T -- date or time
 * comment
 
 ## synonyms
