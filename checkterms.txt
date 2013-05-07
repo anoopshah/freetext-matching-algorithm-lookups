@@ -1,0 +1,22 @@
+medcode	qualify	dequalify
+579	malign,cancer,melan,metast	
+921		vacc,immuni,travel,boost,antibody,antigen,status
+1664	atria,fibrillation,cardi,heart,hypertens,pulse,ischaemic,warfarin,ccf,ihd	birth,deliver,foetus
+1786	head,arachn,haemorr	
+1840		prophylaxis;immunis;vaccin,status
+2413		vacc,immuni,travel,boost,antibody,antigen
+2732		vacc,immuni,travel,boost
+3959		no failure
+4201		vacc,immuni,travel,boostt,antibody
+6350	age,senile,eye,macular,degen	
+7847		cause of death,fear of death
+10273		hosp,admit
+13364		vacc,immuni,travel,boost,status
+16102	pelv,inflamm,salping,sex,scopy	
+16968	deliri,dement	confused about
+19418		vacc,immuni,travel,boost,antibody,antigen
+23892	posterior	
+52136	faint,conscio,loc,fall	cxr,radiograph,x-ray
+62163	single coronary	coronary artery disease
+68967		vacc,immuni,travel,boost,antibody,antigen
+70209		prophyl,advice,preven,travel

@@ -1,0 +1,2042 @@
+text	read	priority	comment
+1	one	5	
+1	single	4	
+1 st	first	5	
+1 vd	single coronary vessel disease	2	
+2	double	4	
+2	two	5	
+2 diseased vessels	double coronary vessel disease	3	
+2 nd	second	5	
+2 ndary	secondary	2	
+2 ndary to	due to	2	
+2 ndary to	secondary to	3	
+2 ndry	secondary	4	
+2 prev	previous multiple	3	
+2 previous	previous multiple	3	
+2 v d	double coronary vessel disease	3	
+2 vd	double coronary vessel disease	2	
+2 vessel disease	double coronary vessel disease	3	
+3	three	5	
+3	triple	4	
+3 diseased vessels	triple coronary vessel disease	3	
+3 prev	previous multiple	3	
+3 previous	previous multiple	3	
+3 rd	third	5	
+3 v d	triple coronary vessel disease	3	
+3 v d	triple vessel disease of the heart	2	
+3 vd	triple coronary vessel disease	3	
+3 vd	triple vessel disease of the heart	1	
+3 vessel coronary disease	triple vessel disease of the heart	5	
+3 vessel disease	triple coronary vessel disease	3	
+3 vessel disease	triple vessel disease of the heart	2	
+4	four	5	
+4 prev	previous multiple	3	
+4 previous	previous multiple	3	
+a / n	antenatal	5	
+a a a	abdominal aortic aneurysm	4	
+a and e	a and e department	5	
+a and e	a e	3	
+a and e	accident and emergency	5	
+a and e	accident emergency	5	
+a and e	casualty	5	
+a and e	emergency	5	
+a and e department	a and e	5	
+a and e department	accident and emergency	5	
+a and e department	casualty	5	
+a and e department	emergency department	4	
+a d h	anti diuretic hormone	4	
+a d v a	animal drawn vehicle accident	4	
+a e	a and e	1	
+a e	a and e department	1	
+a e	casualty	1	
+a e	emergency	2	
+a e admission	emergency hospital admission	3	
+a f	atrial fibrillation	3	
+a fib	atrial fibrillation	3	
+a i d s	acquired immune deficiency syndrome	5	
+a r d s	adult respiratory distress syndrome	5	
+a r f	acute renal failure	4	
+a s d	atrial septal defect	5	
+a v	atrio ventricular	4	
+aaa	abdominal aortic aneurysm	4	
+aau	hospital	1	
+abd	abdomen	2	
+abd	abdominal	5	
+abdo	abdomen	3	
+abdo	abdominal	3	
+abdomen	abdominal	5	
+abdominal	abd	5	
+abdominal	abdomen	5	
+abdominal aneurysm	abdominal aortic aneurysm	2	
+abdominal aortic aneurysm	a a a	4	
+abdominal aortic aneurysm	aaa	4	
+abdonimal	abdominal	3	
+abn	abnormal	4	
+abnorm	abnormal	4	
+abnormal	abn	4	
+abnormal	abnorm	4	
+abnormal	abnormality	5	
+abnormality	abnormal	5	
+absent	lack of	3	
+absent	no	4	
+absent	not	4	
+ac m I	acute myocardial infarction	3	
+acc	accident	4	
+accid	accident	4	
+accident	acc	4	
+accident	accid	4	
+accident and emergency	a and e	5	
+accident and emergency	a and e department	5	
+accident emergency	a and e	5	
+accident emergency	a and e department	1	
+accident emergency	casualty	5	
+accom	accommodation	5	
+accommodation	accom	5	
+acmi	acute myocardial infarction	4	
+acquired immune deficiency syndrome	a i d s	5	
+acquired immune deficiency syndrome	aids	5	
+acute admissions unit	hospital	1	
+acute myocardial infarction	acmi	4	
+acute non st segment elevation myocardial infarction	non st elevation mi	4	
+acute renal failure	a r f	4	
+acute renal failure	arf	4	
+acute st segment elevation myocardial infarction	acute stemi	5	
+acute st segment elevation myocardial infarction	st elevation mi	4	
+acute st segment elevation myocardial infarction	stemi	4	
+acute stemi	acute st segment elevation myocardial infarction	5	
+addmission	admission	1	
+adenocarcinoma	malignant neoplasm	2	
+adh	anti diuretic hormone	4	
+admisn	admission	5	
+admission	admisn	5	
+admission	admissions	5	
+admission	admit	5	
+admission	admitted	5	
+admissions	admission	5	
+admit	admission	2	
+admit	admitted	5	
+admitted	admission	5	
+admitted	admit	5	
+admitted	admtd	4	
+admitted	hospital admission	2	
+admitted hosp	hospital admission	1	
+admitted to hosp	hospital admission	2	
+admtd	admitted	4	
+adult respiratory distress syndrome	a r d s	5	
+adult respiratory distress syndrome	ards	5	
+adva	animal drawn vehicle accident	4	
+adverse reaction	side effect of	1	
+adverse reaction to	side effect of	2	
+af	atrial fibrillation	3	
+after	following	5	
+after cocaine	adverse reaction to cocaine	3	
+after injecting cocaine	adverse reaction to cocaine	3	
+after snorting cocaine	adverse reaction to cocaine	3	
+after taking cocaine	adverse reaction to cocaine	3	
+after using cocaine	adverse reaction to cocaine	3	
+against malaria	malaria prophylaxis	2	
+aids	acquired immune deficiency syndrome	5	
+aircr	aircraft	4	
+aircraft	aircr	4	
+alcoholic liver disease	alcoholic liver damage	2	
+allergic	adverse reaction to	1	
+allergic	allergy	5	
+allergic to	adverse reaction to	3	
+allergy	allergic	5	
+alzheimer	alzheimer disease	3	
+amd	senile macular degeneration	3	
+angio	angiogram	4	
+angio	angiography	4	
+angiogram	angio	4	
+angiography	angio	4	
+angogram	angiogram	2	
+anim	animal	4	
+animal	anim	4	
+animal drawn vehicle accident	a d v a	4	
+animal drawn vehicle accident	adva	4	
+ankle	ankle joint	5	
+ankle	lower limb	1	
+ankle joint	ankle	5	
+ankle oedema	oedematous legs	3	
+antenatal	a / n	5	
+anterior left ventricular	left ventricular	2	
+anteroapical	left ventricular	2	
+anti diuretic hormone	a d h	4	
+anti diuretic hormone	adh	4	
+antig	antigen	4	
+antigen	antig	4	
+anxiety	anxious	5	
+anxious	anxiety	5	
+aortic dissection	dissecting aortic aneurysm	5	
+apnoeic attack	neonatal apnoeic attack	2	
+appointment	appt	4	
+appt	appointment	4	
+ards	adult respiratory distress syndrome	5	
+arf	acute renal failure	4	
+arm	upper limb	1	
+armd	senile macular degeneration	3	
+arrhyth	arrhythmia	3	
+arthritis	degenerative joint disease	3	
+asd	atrial septal defect	5	
+ashtma	asthma	2	
+asthmatic	asthma	3	
+athlete	competitive athlete	3	
+atrial	auricular	4	
+atrial septal defect	a s d	5	
+atrial septal defect	asd	5	
+atrio ventricular	a v	4	
+atrio ventricular	av	4	
+atrioventricular	av	4	
+atrium	auricle	4	
+attack	attacks	5	
+attacks	attack	5	
+attempt	attempted	5	
+attempted	attempt	5	
+attendance	attender	4	
+attender	attendance	4	
+attender	attends	5	
+attends	attender	5	
+auricle	atrium	4	
+auricular	atrial	4	
+av	arteriovenous	3	
+av	atrio ventricular	4	
+av	atrioventricular	4	
+aware of	knows	5	
+b b b	bundle branch block	4	
+b c c	basal cell carcinoma	4	
+b c g	b c g	5	
+b c g	bcg	5	
+b n p	brain natriuretic peptide	4	
+b o o	bladder outflow obstruction	4	
+b p h	bengn prostatic hypertrophy	4	
+b p h	benign prostatic hypertrophy	4	
+b pne	bronchopneumonia	2	
+b pneu	bronchopneumonia	2	
+b s	body surface	3	
+basal cell carcinoma	b c c	4	
+basal cell carcinoma	bcc	4	
+bbb	bundle branch block	4	
+bcc	basal cell carcinoma	4	
+bcg	b c g	5	
+bcg	tuberculosis vaccination	5	
+been a e	casualty self referral	1	
+been hosp	recently in hospital	1	
+been hospital	recently in hospital	1	
+been in	inpatient	2	
+been in hosp	recently in hospital	2	
+been in hospital	recently in hospital	2	
+been to a and e	casualty self referral	4	
+behav	behaviour	4	
+behaviour	behav	4	
+bengn prostatic hypertrophy	b p h	4	
+benifit	benefit	2	
+benign prostatic hypertrophy	b p h	4	
+benign prostatic hypertrophy	bph	4	
+bicycle	pedal cycle	5	
+big toe	great toe	5	
+big toe	toe	1	
+bladder outflow obstruction	b o o	4	
+bladder outflow obstruction	boo	4	
+bleed	bleeding	5	
+bleed	haemorrhage	4	
+bleeding	bleed	5	
+bleeding	haemorrhage	4	
+bleeding p v	bleeding vaginal	4	
+bleeding pv	bleeding vaginal	4	
+bleeding vaginal	bleeding p v	4	
+bleeding vaginal	bleeding pv	4	
+bleeding vaginal	bpv	3	
+block	blockage	5	
+block	blocked	5	
+blockage	block	5	
+blockage	stenosis	5	
+blocked	block	5	
+blocked	disease	2	
+blocked	stenosed	5	
+blocked	stenosis	5	
+bnp	brain natriuretic peptide	4	
+body lice	pediculus corporis	3	
+body surface	bs	4	
+boo	bladder outflow obstruction	4	
+borderline smear	cerv smear borderline changes	3	
+bowel	colon	3	
+bp	blood pressure	2	
+bph	benign prostatic hypertrophy	4	
+bpv	bleeding vaginal	3	
+brain natriuretic peptide	b n p	4	
+brain natriuretic peptide	bnp	4	
+brainstem cva	brainstem infarction	5	
+brainstem infarction	brainstem cva	5	
+breast feeding	performs breast feeding	3	
+breastfeeding	breast feeding	3	
+breastfeeding	performs breast feeding	3	
+breastfeeds	performs breast feeding	3	
+breathless	breathlessness	4	
+breathless	dyspnoea	5	
+breathless	sob	4	
+breathlessness	breathless	4	
+breathlessness	dyspnoea	5	
+breathlessness	sob	4	
+broke	fracture	2	
+broken	fractured	3	
+bronchial	bronchus	5	
+bronchiecta	bronchiectasis	3	
+broncho pneumonia	bronchopneumonia	5	
+bronchonpneumonia	bronchopneumonia	2	
+bronchopneumonia	broncho pneumonia	5	
+bronchus	bronchial	5	
+brst	breast	2	
+bs	body surface	4	
+bs normal	bowel sounds normal	1	
+bundle branch block	b b b	4	
+bundle branch block	bbb	4	
+c 3	third cervical	5	
+c 4	fourth cervical	5	
+c 5	fifth cervical	5	
+c 6	sixth cervical	5	
+c 7	seventh cervical	5	
+c a b g	coronary artery bypass graft	4	
+c a d	coronary artery disease	4	
+c c f	congestive cardiac failure	5	
+c h d	coronary heart disease	4	
+c n s	central nervous system	4	
+c o a d	chronic obstructive airways disease	5	
+c o a d	chronic obstructive pulmonary disease	5	
+c o p d	chronic obstructive pulmonary disease	5	
+c p n	community psychiatric nurse	5	
+c r f	chronic renal failure	4	
+c v a	cerebrovascular accident	4	
+c v a	stroke	4	
+ca	cancer	4	
+ca	malignant neoplasm	4	
+ca	neoplasm malignant	3	
+ca tosis	carcinomatosis	2	
+cabg	coronary artery bypass graft	4	
+cad	coronary artery disease	4	
+caecal	caecum	4	
+caecal	cecal	4	
+caecum	caecal	4	
+caecum	cecal	4	
+calcification	calculi	2	
+calcification	calculus	2	
+calculi	calcification	2	
+calculi	stones	3	
+cancer	malig neop	3	
+cancer	malignancy	5	
+cancer	malignant neoplasm	4	
+cancer	neoplasm malignant	3	
+carcin	carcinoma	3	
+carcino embryonic antigen	cea	3	
+carcinoma	malignant neoplasm	3	
+card	cardiac	1	
+cardiac	heart	3	
+cardiac	of the heart	3	
+cardiac fail	cardiac failure	3	
+cardio respiratory	cardiorespiratory	5	
+cardiopulmonary	cardio respiratory	2	
+cardiopulmonary arrest	cardio respiratory arrest	3	
+cardiorespiratory	cardio respiratory	5	
+cardiovascular	cvs	4	
+cardiovascular disease	cvd	4	
+cardiovascular system	cvs	4	
+carpal tunnel syndrome	cts	2	
+casualty	a and e	5	
+casualty	a and e department	5	
+casualty	accident emergency	5	
+casualty self referral	been to a and e	4	
+casualty self referral	went to a and e	4	
+caused by	due to	5	
+causing	resulting in	5	
+ccf	congestive cardiac failure	5	
+ccnjunctivitis	conjunctivitis	2	By R code
+cdh	congenital dislocation of hip	4	
+cea	carcino embryonic antigen	3	
+cecal	caecal	4	
+cecal	caecum	4	
+central nervous system	c n s	4	
+central nervous system	cns	4	
+cerebellar	cerebellum	5	
+cerebellum	cerebellar	5	
+cerebral	brain	3	
+cerebral	cerebrum	5	
+cerebral	intracranial	2	
+cerebralvascular	cerebrovascular	2	
+cerebro vascular	cerebrovascular	5	
+cerebrovascular	cerebro vascular	5	
+cerebrovascular accident	c v a	4	
+cerebrovascular accident	cva	4	
+cerebrum	cerebral	5	
+cerfified	certified	2	
+certificate	certification	5	
+certification	certificate	5	
+cerv	cervical	4	
+cervical	cerv	4	
+cervical	cervix	2	
+cervical	neck	2	
+cervical cancer	malignant neoplasm of cervix uteri	5	
+cervical lymph	cervix	-100	
+cervical vertebra	cervix	-100	
+cervix	cervical	2	
+cervix	cervical lymph	-100	
+cervix	cervical vertebra	-100	
+cervix	cervix uteri	4	
+cervix uteri	cervix	3	
+cervix uteri	neck	-100	
+cfs	chronic fatigue syndrome	3	
+chd	coronary heart disease	4	
+checken pox	chickenpox	2	
+chest	respiratory	2	
+chest inf	chest infection	3	
+chewing ok	no problem chewing	3	
+chewing satisfactory	no problem chewing	3	
+chicken pox	chickenpox	5	
+chickenpox	chicken pox	5	
+childb	childbirth	4	
+childbirth	childb	4	
+chiropodist	chiropody	5	
+chiropody	chiropodist	5	
+cholangio carcinoma	cholangiocarcinoma	5	
+cholangiocarcinoma	cholangio carcinoma	5	
+chron	chronic	4	
+chronic	chron	4	
+chronic airways disease	chronic obstructive pulmonary disease	2	
+chronic fatigue syndrome	cfs	3	
+chronic obstructive airways disease	c o a d	5	
+chronic obstructive airways disease	coad	5	
+chronic obstructive pulmonary disease	c o a d	5	
+chronic obstructive pulmonary disease	c o p d	5	
+chronic obstructive pulmonary disease	coad	5	
+chronic obstructive pulmonary disease	copd	5	
+chronic renal failure	c r f	4	
+chronic renal failure	crf	4	
+cin 1	cin i ii cervical dysplasia	3	
+cin 11	cin i ii cervical dysplasia	3	
+cin 111	cin iii carcinoma in situ of cervix	3	
+cin i	cin i ii cervical dysplasia	3	
+cin ii	cin i ii cervical dysplasia	3	
+cin iii	cin iii carcinoma in situ of cervix	3	
+circuflex	circumflex	3	
+circumflex	circumflex artery	5	
+circumflex	circumflex coronary artery	5	
+circumflex	left circumflex coronary artery	5	
+circumflex a	circumflex coronary artery	5	
+circumflex artery	circumflex	5	
+circumflex artery	circumflex coronary artery	5	
+circumflex coronary artery	circumflex	5	
+circumflex coronary artery	circumflex a	5	
+circumflex coronary artery	circumflex artery	5	
+circumflex coronary artery disease	circumflex stenosis	5	
+circumflex stenosis	circumflex coronary artery disease	5	
+clarif	clarification	5	
+clarification	clarif	5	
+clinic	outpatients	5	
+closed	cls	2	
+cls	closed	2	
+cmv	cytomegalovirus	4	
+cns	central nervous system	4	
+coad	chronic obstructive airways disease	5	
+coad	chronic obstructive pulmonary disease	5	
+coad	copd	5	
+cocaine	adverse reaction to cocaine	1	
+cocaine	cocaine misuse	3	
+cocaine	cocaine use	3	
+cocaine misuse	cocaine	3	
+cocaine use	cocaine	3	
+coll	collision	3	
+collpse	collapse	2	
+colon	bowel	3	
+colon	colonic	5	
+colonic	colon	5	
+common variable immunodeficiency	cvid	4	
+community psychiatric nurse	c p n	5	
+community psychiatric nurse	cpn	5	
+comp	complication	3	
+complicated by	resulting in	5	
+congenital dislocation of hip	cdh	4	
+congestive cardiac failure	c c f	5	
+congestive cardiac failure	ccf	5	
+conjunctivitis	ccnjunctivitis	2	By R code
+consc	consciousness	3	
+consciousness	consc	3	
+contact	exposure	1	
+copd	chronic obstructive pulmonary disease	5	
+copd	coad	5	
+coronaries	coronary arteries	4	
+coronaries	coronary artery	2	
+coronaries	coronary vessels	5	
+coronary	coronary arteries	2	
+coronary	coronary artery	2	
+coronary	coronary vessels	3	
+coronary	of the heart	3	
+coronary arteries	coronaries	4	
+coronary arteries	coronary	2	
+coronary arteries	coronary vessels	5	
+coronary artery	coronaries	2	
+coronary artery	coronary	2	
+coronary artery	coronary vessel	5	
+coronary artery bypass graft	c a b g	4	
+coronary artery bypass graft	cabg	4	
+coronary artery disease	c a d	4	
+coronary artery disease	cad	4	
+coronary artery disease	coronary disease	3	
+coronary artery disease three vessel	triple vessel disease of the heart	5	
+coronary atheroma	coronary artery atheroma	2	
+coronary heart disease	c h d	4	
+coronary heart disease	chd	4	
+coronary vessel	coronary artery	5	
+coronary vessel disease	vessel coronary artery disease	5	
+coronary vessels	coronaries	5	
+coronary vessels	coronary	3	
+coronary vessels	coronary arteries	5	
+cpn	community psychiatric nurse	5	
+crabs	pubic lice	3	
+crackles	crepitations	4	
+crem form	cremation form	5	
+cremation form	crem form	5	
+crepitations	crackles	4	
+crf	chronic renal failure	4	
+critical ischaemia	ischaemia	2	
+cronoary	coronary	2	
+cruciate	cruciate ligament of knee	2	
+cruciate ligament	cruciate ligament of knee	3	
+crush	crushed	4	
+crushed	crush	4	
+cts	carpal tunnel syndrome	2	
+current	currently	5	
+currently	current	5	
+cva	cerebrovascular accident	4	
+cva	stroke	4	
+cvd	cardiovascular disease	4	
+cvid	common variable immunodeficiency	4	
+cvs	cardiovascular	4	
+cvs	cardiovascular system	4	
+cytomegalovirus	cmv	4	
+d i c	disseminated intravascular coagulation	5	
+d n a	did not attend	5	
+d u	duodenal ulcer	4	
+d v t	deep vein thrombosis	4	
+daibetes	diabetes	2	
+death certificate	med a	5	
+deceased	dead	3	
+deep vein thrombosis	d v t	4	
+deep vein thrombosis	dvt	4	
+deficiency	deficient	4	
+deficient	deficiency	4	
+degenerative joint disease	arthritis	3	
+del	delivery	4	
+delay	delays	4	
+delays	delay	4	
+deliv	delivery	5	
+delive	delivery	5	
+delivery	del	4	
+delivery	deliv	5	
+delivery	delive	5	
+dental	tooth	3	
+dependant	dependent	2	By R code
+dependent	dependant	2	By R code
+depressn	depression	3	
+deression	depression	1	
+dermographia	dermographism	5	
+dermographism	dermographia	5	
+detected	positive	4	
+development	developmental	4	
+developmental	development	4	
+diabetes	diabetes mellitus	3	
+diabetes	diabetic	3	
+diabetes insipidus	diabetes mellitus	-100	
+diabetes mellitus	diabetes	3	
+diabetes mellitus	diabetes insipidus	-100	
+diabetic	diabetes	3	
+diarrh	diarrhoea	5	
+diarrhoea	diarrh	5	
+diarrhoea	diarrhoea symptom	4	
+diarrhoea	diarrhoea symptoms	4	
+diarrhoea symptom	diarrhoea	4	
+diarrhoea symptoms	diarrhoea	4	
+diazepam	drug	1	
+dic	disseminated intravascular coagulation	5	
+did not	didn t	5	
+did not attend	d n a	5	
+did not attend	dna	5	
+did not attend	poor attender	3	
+didn t	did not	5	
+died	patient died	3	
+died in	patient died in	3	
+diff	differential	3	
+differential	diff	3	
+dip	distal interphalangeal	5	
+dis	disease	4	
+disc space	intervertebral disc space	5	
+disch	discharge	5	
+discha	discharge	3	
+discharge	disch	5	
+discharge	discharged	4	
+discharge home	discharged from inpatient care	2	
+discharged	discharge	4	
+discharged	discharged from follow up	2	
+discharged home	discharged from inpatient care	2	
+discomfort	symptoms	2	
+discrim	discrimination	5	
+discrimination	discrim	5	
+diseas	disease	3	
+disease	dis	4	
+disease	diseases	5	
+disease	lesion	4	
+disease	stenosis	3	
+diseaseand	disease	1	
+diseaseand	disease and	2	
+diseased	lesion	4	
+diseased vessel	coronary vessel disease	2	
+diseased vessel	vessel disease	5	
+diseased vessels	coronary vessel disease	2	
+diseased vessels	vessel disease	5	
+diseases	disease	5	
+dislocated	dislocation	5	
+dislocation	dislocated	5	
+disorder	illness	2	
+disorder	syndrome	1	
+dissecting aortic aneurysm	aortic dissection	5	
+disseminated intravascular coagulation	d i c	5	
+disseminated intravascular coagulation	dic	5	
+dist	distal	3	
+distal	proximal	-100	
+distal humerus	lower end of humerus	3	
+distal interphalangeal	dip	5	
+distal radius	lower end of radius	3	
+distal ulna	lower end of ulna	3	
+div disease	diverticular disease	3	
+divertic	diverticular	3	
+dna	did not attend	5	
+does not	doesn t	5	
+doesn t	does not	5	
+dorsalis pedis	dorsalis pedis pulse	5	
+dorsalis pedis pulse	dorsalis pedis	5	
+double	2	4	
+double	two	5	
+drinker	drinks	3	
+drinks	drinker	3	
+drooping	droopy	3	
+droopy	drooping	3	
+du	duodenal ulcer	4	
+ductal	intraductal	2	
+due to	caused by	5	
+due to	resulting from	5	
+due to cocaine	adverse reaction to cocaine	3	
+duodenal	duodenum	5	
+duodenal ulcer	d u	4	
+duodenal ulcer	du	4	
+duodenum	duodenal	5	
+dvt	deep vein thrombosis	4	
+dysfunction	impairment	3	
+dyspnoea	breathless	5	
+dyspnoea	breathlessness	5	
+dyspnoea	short of breath	5	
+e coli	escherichia coli	5	
+e t t	exercise tolerance test	4	
+ebv	epstein barr virus	4	
+ecg	electrocardiogram	4	
+ecg showed	ecg	2	
+ecg shows	ecg	2	
+echo	echocardiogram	5	
+echo	echocardiogram shows	2	
+echocardiogram	echo	5	
+eczema	eczematous	2	
+eczematous	eczema	2	
+egg exclusion	egg free diet	3	
+elbow	arm	1	
+elbow	elbow joint	5	
+elbow	upper limb	1	
+elbow joint	elbow	5	
+electrocardiogram	ecg	4	
+elev	elevation	3	
+embol	embolism	2	
+embol	embolus	2	
+emboli	embolus	4	
+embolism	embolus	4	
+embolus	emboli	4	
+embolus	embolism	4	
+emerg	emergency	5	
+emerg gynae cinic	gynaecology clinic	2	
+emergency	a and e	5	
+emergency	emerg	5	
+emergency department	a and e department	4	
+emergency gynae cinic	gynaecology clinic	3	
+endometrial	endometrium of corpus uteri	4	
+endometrium	endometrium of corpus uteri	4	
+endometrium of corpus uteri	endometrial	4	
+endometrium of corpus uteri	endometrium	4	
+enlarged	enlargement	5	
+enlargement	enlarged	5	
+epigastric	epigastrium	5	
+epigastrium	epigastric	5	
+epistaxes	epistaxis	3	
+epistaxis	nose bleed	4	
+epstein barr virus	ebv	4	
+erratic	irregular	4	
+esch	escherich	5	
+esch	escherichia	5	
+escherich	esch	5	
+escherich	escherichia	5	
+escherichia	esch	5	
+escherichia	escherich	5	
+escherichia coli	e coli	5	
+etoh	alcohol	3	
+ett	exercise tolerance test	4	
+exacerbation	acute exacerbation	3	
+examination	examined	4	
+examined	examination	4	
+exercise tolerance test	e t t	4	
+exercise tolerance test	ett	4	
+exertion	exertional	5	
+exertional	exertion	5	
+exposure	contact	1	
+f s h	follicle stimulating hormone	4	
+factor 2	factor ii	5	
+factor ii	factor 2	5	
+failur	failure	2	
+failure	impaired	3	
+failure	impairment	3	
+failure impairment	impairment	3	
+failure to thrive	ftt	4	
+failurre	failure	2	
+fall from	falling off	5	
+falling off	fall from	5	
+fathr	father	3	
+faulire	failure	2	
+feeding	feeds	5	
+feeds	feeding	5	
+femoral	femur	5	
+femur	femoral	5	
+fetal	foetal	5	
+fetal	foetus	5	
+fetus	foetal	5	
+fetus	foetus	5	
+fever	fever symptom	4	
+fever	fever symptoms	4	
+fever	pyrexia	5	
+fever symptom	fever	4	
+fever symptoms	fever	4	
+fib	fibula	2	
+fibroadenosis	fibroadenosis of breast	3	
+fibula	fibular	5	
+fibular	fibula	5	
+fifth cervical	c 5	5	
+fifth lumbar	l 5	5	
+finger	hand	1	
+finger	toe	-100	
+first	1 st	5	
+first lumbar	l 1	5	
+flu	influenza	5	
+flushed	flushes	4	
+flushes	flushed	4	
+flushes	flushes symptom	4	
+flushes	flushes symptoms	4	
+flushes symptom	flushes	4	
+flushes symptoms	flushes	4	
+fmf	foetal movement felt	2	
+foetal	fetal	5	
+foetal	fetus	5	
+foetus	fetal	5	
+foetus	fetus	5	
+follicle stimulating hormone	f s h	4	
+follicle stimulating hormone	fsh	3	
+following	after	5	
+foot	hand	-100	
+foot	leg	1	
+foot	lower limb	1	
+fore arm	forearm	5	
+forearm	arm	1	
+forearm	fore arm	5	
+forearm	upper limb	1	
+form	certificate	3	
+four	4	5	
+fourth cervical	c 4	5	
+fourth lumbar	l 4	5	
+fourth toe	toe	2	
+fr	from	3	
+frac	fracture	3	
+frac	fractured	3	
+fract	fracture	3	
+fracture	fract	3	
+fracture	fractured	5	
+fracture	fractures	4	
+fractured	fracture	5	
+fractures	fracture	4	
+frontal sinus	sinuses	1	
+frontal sinuses	sinuses	1	
+fsh	follicle stimulating hormone	3	
+ftt	failure to thrive	4	
+g p	g p	5	
+g p	general practitioner	5	
+g p	gp	5	
+gall stones	gallstones	5	
+gallstones	gall stones	5	
+gastric	stomach	3	
+gastrocnaemius	calf	3	
+gastrointestinal	gi	3	
+general medicine	medical clinic	3	
+general practitioner	g p	5	
+general practitioner	gp	5	
+general surgery	surgical clinic	3	
+gi	gastrointestinal	3	
+given mmr	given mmr immunisation	3	
+glucose	sugar	3	
+glucose tolerance test	gtt	3	
+good	normal	2	
+good	preserved	5	
+good left ventricular function	no lv impairment	4	
+gord	gastro oesophageal reflux	3	
+gp	g p	5	
+gp	general practitioner	5	
+grade 2	grade ii	5	
+grade ii	grade 2	5	
+grav	gravida	4	
+gravida	grav	4	
+great toe	big toe	5	
+great toe	toe	1	
+gtt	glucose tolerance test	3	
+gynae	gynaecologist	3	
+gynae	gynaecology	3	
+gynaecological	gynaecology	3	
+gynaecology	gynae	5	
+gynaecology	gynaecological	3	
+h / o	history of	5	
+h ge	haemorrhage	1	
+had go hospital	self referral to hospital	3	
+had to go to hospital	self referral to hospital	3	
+haemarroids	haemorrhoids	3	
+haemolysis elev liver enzyme low platelets	hellp	3	
+haemorhage	haemorrhage	5	
+haemorrh	haemorrhage	5	
+haemorrh	haemorrhages	5	
+haemorrhage	bleed	4	
+haemorrhage	bleeding	4	
+haemorrhage	haemorhage	5	
+haemorrhage	haemorrh	5	
+haemorrhages	haemorrh	5	
+hand	arm	1	
+hand	foot	-100	
+hand	upper limb	1	
+hb a 1	hba 1 c	3	
+hb a 1 c	hba 1 c	3	
+hba 1	hba 1 c	3	
+hba 1 c	hba 1	5	
+head lice	nits	3	
+head lice	pediculus capitis	3	
+heart	cardiac	3	
+hellp	haemolysis elev liver enzyme low platelets	3	
+hemi block	hemiblock	3	
+hemiblock	hemi block	3	
+hep	hepatitis	3	
+hepatic	liver	3	
+hge	haemorrhage	1	
+hip	hip joint	5	
+hip	hips	3	
+hip	lower limb	1	
+hip joint	hip	5	
+hips	hip	3	
+history of	h / o	5	
+hiv antibody	hiv	3	
+hiv antibody test	hiv	3	
+hiv infection	human immunodeficiency virus infection	5	
+hodgkin	hodgkins	5	
+hodgkins	hodgkin	5	
+home from hospital	discharged from hospital	2	
+home hospital	discharged from hospital	1	
+hosp	hospital	5	
+hosp adm	hospital admission	3	
+hosp l	hospital	2	
+hospital	hosp	5	
+hospital	hosp l	2	
+hospital	hospital care	3	
+hospital admission	hospitalisation	3	
+hospital admission	hospitalised	5	
+hospital admission	hospitalization	3	
+hospital admission	hospitalized	5	
+hospital inpatient	been in hospital	2	
+hospitalisation	hospital admission	3	
+hospitalised	hospital admission	5	
+hospitalised	hospitalized	5	
+hospitalization	hospital admission	3	
+hospitalized	hospital admission	5	
+hospitalized	hospitalised	5	
+hospl	hospital	2	
+hour	hr	4	
+hr	hour	4	
+ht	hypertension	2	
+human immunodeficiency virus	human immunodeficiency virus infection	3	
+human immunodeficiency virus infection	hiv infection	5	
+humeral	humerus	5	
+humerus	humeral	5	
+hypert	hypertension	3	
+hyperten	hypertension	3	
+hypertens	hypertension	3	
+hypertensi	hypertension	3	
+hypertensio	hypertension	3	
+hyperthyroidism	thyrotoxicosis	5	
+hypotensive	hypotension	3	
+hypothyroidism	thyroid deficiency	5	
+i / p	inpatient	3	
+i d d m	insulin dependent diabetes mellitus	4	
+i h d	ischaemic heart disease	4	
+i t p	idiopathic thrombocytopenic purpura	4	
+i t u	intensive care unit	5	
+i t u	intensive therapy unit	5	
+ibd	inflammatory bowel disease	4	
+ibs	irritable bowel syndrome	4	
+iddm	insulin dependent diabetes mellitus	4	
+idiopathic thrombocytopenic purpura	i t p	4	
+idiopathic thrombocytopenic purpura	itp	4	
+ihd	ischaemic heart disease	4	
+illness	disorder	2	
+immune deficiency	immunodeficiency	5	
+immunisation	immunisation against	3	
+immunisation	immunization	5	
+immunisation	immunization against	3	
+immunisation	vaccination	5	
+immunisation against	immunisation	3	
+immunisation against	immunization	3	
+immunization	immunisation	5	
+immunization	immunisation against	3	
+immunization	immunization against	3	
+immunization	vaccination	5	
+immunization against	immunisation	3	
+immunization against	immunization	3	
+immunodeficiency	immune deficiency	5	
+impair	impairment	3	
+impaired	impairment	4	
+impaired	impired	5	
+impaired left ventricle	impaired left ventricular function	5	
+impaired left ventricular function	impaired left ventricle	5	
+impaired left ventricular function	left ventricular failure	5	
+impaired left ventricular function	left ventricular impairment	5	
+impaired left ventricular function	lv impaired	4	
+impaired left ventricular function	lv impairment	4	
+impaired lv	left ventricular impairment	3	
+impaired lv function	left ventricular impairment	5	
+impairment	dysfunction	3	
+impairment	failure impairment	3	
+impairment	impair	3	
+impairment	impaired	4	
+impired	impaired	5	
+in hosp	inpatient	2	
+in hospital	inpatient	2	
+in hospital	inpatient hospital	2	
+in patient	inpatient	2	
+incisional henia	incisional hernia	2	
+index finger	finger	1	
+infarc	infarction	4	
+infarct	infarction	4	
+infarction	infarc	4	
+infarction	infarct	4	
+infec	infected	4	
+infec	infection	4	
+infected	infec	4	
+infected	infection	3	
+infection	infec	4	
+infection	infected	3	
+inflammatory bowel disease	ibd	4	
+influenza	flu	5	
+inguinal henia	inguinal hernia	2	
+injured	injury	4	
+injuries	injury	5	
+injury	injured	4	
+injury	injuries	5	
+inpatient	hospital inpatient	1	
+insulin dependent diabetes mellitus	i d d m	4	
+insulin dependent diabetes mellitus	iddm	4	
+intensive care unit	i t u	5	
+intensive care unit	itu	5	
+intensive therapy unit	i t u	5	
+intensive therapy unit	itu	5	
+intercranial	intracranial	2	
+interphalangeal	ip	3	
+interphalangeal joint	ipj	3	
+intervertebral disc space	disc space	5	
+intolerance	intolerant	5	
+intolerant	intolerance	5	
+intra uterine growth retardation	iugr	4	
+intraductal	ductal	2	
+ip	interphalangeal	3	
+ipj	interphalangeal joint	3	
+irregular	erratic	4	
+irritable bowel syndrome	ibs	4	
+ischaemic heart disease	i h d	4	
+ischaemic heart disease	ihd	4	
+itp	idiopathic thrombocytopenic purpura	4	
+itu	intensive care unit	5	
+itu	intensive therapy unit	5	
+iugr	intra uterine growth retardation	4	
+jejunal	jejunum	5	
+jejunum	jejunal	5	
+jogging	moderate exertion	2	
+joint position sense	proprioception	5	
+joint posn sense	proprioception	5	
+just come out	recently in	1	
+just come out of	recently in	2	
+just discharged	recently in hospital	2	
+keratinising	keratinizing	5	
+keratinizing	keratinising	5	
+keratoacanthoma	keratoakanthoma	5	
+keratoakanthoma	keratoacanthoma	5	
+kidney	renal	4	
+kidney and ureter	renal tract	3	
+kidney or ureter	renal tract	3	
+knee	knee joint	5	
+knee	leg	1	
+knee	lower limb	1	
+knee joint	knee	5	
+knows	aware of	5	
+l	left	3	
+l 1	first lumbar	5	
+l 1 / 2	lumbar	3	
+l 1 l 2	lumbar	3	
+l 2	second lumbar	5	
+l 2 / 3	lumbar	3	
+l 2 l 3	lumbar	3	
+l 3	third lumbar	5	
+l 3 / 4	lumbar	3	
+l 3 l 4	lumbar	3	
+l 4	fourth lumbar	5	
+l 4 / 5	lumbar	3	
+l 4 l 5	lumbar	3	
+l 5	fifth lumbar	5	
+l 5 / s 1	lumbar	2	
+l 5 s 1	lumbar	2	
+l 5 s 1	lumbosacral	3	
+l a d	left anterior descending	4	
+l a f b	left anterior fascicular block	4	
+l b b b	left bundle branch block	4	
+l coronary	left coronary	5	
+l coronary	left coronary artery	3	
+l h	luteinising hormone	4	
+l m n	lower motor neuron	5	
+l m n	lower motor neurone	5	
+l m s	left main stem	4	
+l main stem	left main stem	5	
+l n	lymph node	4	
+l n	lymph nodes	4	
+l o c	loss of consciousness	4	
+l p f b	left posterior fascicular block	4	
+l r t i	lower respiratory tract infection	4	
+l s c s	lower segment caesarean section	5	
+l v d	left ventricular dysfunction	4	
+l v f	left ventricular failure	4	
+lack	no	3	
+lack of	absent	3	
+lad	left anterior descending	4	
+lafb	left anterior fascicular block	4	
+large bowel	colon	3	
+lat	lateral	4	
+lateral	lat	4	
+lateral	medial	-100	
+lbbb	left bbb	4	
+lbbb	left bundle branch block	4	
+left	l	3	
+left	left side	4	
+left	left sided	4	
+left	lt	3	
+left	right	-100	
+left	rt	-100	
+left anterior descending	l a d	4	
+left anterior descending	lad	4	
+left anterior descending disease	left anterior descending stenosis	5	
+left anterior descending stenosis	left anterior descending disease	5	
+left anterior fascicular block	l a f b	4	
+left anterior fascicular block	lafb	4	
+left anterior hemi block	left bundle branch hemiblock	3	
+left bbb	lbbb	4	
+left bundle branch block	l b b b	4	
+left bundle branch block	lbbb	4	
+left circumflex coronary artery	circumflex	5	
+left coronary	l coronary	5	
+left coronary artery disease	left coronary artery stenosis	5	
+left coronary artery stenosis	left coronary artery disease	5	
+left main disease	left main stem disease	5	
+left main stem	l m s	4	
+left main stem	l main stem	5	
+left main stem	lms	4	
+left main stem disease	left main disease	5	
+left main stem disease	left main stem stenosis	5	
+left main stem disease	left main stenosis	5	
+left main stem stenosis	left main stem disease	5	
+left main stenosis	left main stem disease	5	
+left posterior fascicular block	l p f b	4	
+left posterior fascicular block	lpfb	4	
+left side	left	4	
+left sided	left	4	
+left ventricle	left ventricular function	3	
+left ventricle	lv	3	
+left ventricular	lv	3	
+left ventricular aneurysm	ventricular cardiac aneurysm	4	
+left ventricular dysfunction	l v d	4	
+left ventricular dysfunction	lvd	4	
+left ventricular failure	impaired left ventricular function	5	
+left ventricular failure	l v f	4	
+left ventricular failure	lvf	4	
+left ventricular impairment	good left ventricular function	1	
+left ventricular impairment	impaired left ventricular function	5	
+left ventricular impairment	impaired lv function	5	
+leg	lower limb	1	
+leg oedema	legs oedematous	5	
+leg oedema	oedematous ankles	3	
+legs oedematous	leg oedema	5	
+lesion	disease	4	
+lesion	diseased	4	
+lh	luteinising hormone	3	
+little finger	finger	1	
+little toe	toe	2	
+liver	hepatic	3	
+lmn	lower motor neuron	5	
+lmn	lower motor neurone	5	
+lms	left main stem	4	
+ln	lymph node	4	
+ln	lymph nodes	4	
+loc	loss of consciousness	4	
+loss of	narrowing	3	
+loss of consciousness	l o c	4	
+loss of consciousness	loc	4	
+low	lower	5	
+lower	low	5	
+lower end humerus	distal humerus	1	
+lower end of humerus	distal humerus	3	
+lower end of radius	distal radius	3	
+lower end of ulna	distal ulna	3	
+lower end radius	distal radius	1	
+lower end ulna	distal ulna	1	
+lower leg	leg	1	
+lower motor neuron	l m n	5	
+lower motor neuron	lmn	5	
+lower motor neurone	l m n	5	
+lower motor neurone	lmn	5	
+lower respiratory tract infection	l r t i	4	
+lower respiratory tract infection	lrti	4	
+lower segment caesarean section	l s c s	5	
+lower segment caesarean section	lscs	5	
+lpfb	left posterior fascicular block	4	
+lrti	lower respiratory tract infection	4	
+lscs	caesarean delivery	3	
+lscs	lower segment caesarean section	5	
+lt	left	3	
+lt	right	-100	
+lung	pulmonary	3	
+luteinising hormone	l h	4	
+luteinising hormone	lh	3	
+lv	left ventricle	3	
+lv	left ventricular	3	
+lv	left ventricular function	3	
+lv dysfunction	left ventricular impairment	3	
+lv failure	impaired left ventricular function	3	
+lv impaired	impaired left ventricular function	4	
+lv impairment	good left ventricular function	1	
+lv impairment	impaired left ventricular function	4	
+lvd	impaired left ventricular function	3	
+lvd	left ventricular dysfunction	4	
+lvd	left ventricular impairment	3	
+lvf	impaired left ventricular function	3	
+lvf	left ventricular failure	4	
+lvf	left ventricular function	3	
+lymph node	l n	4	
+lymph node	ln	4	
+lymph nodes	l n	4	
+lymph nodes	ln	4	
+lymphocytic	lymphoid	3	
+m i	acute myocardial infarction	3	
+m i	myocardial infarction	4	
+m v	motor vehicle	3	
+m v n t a	motor vehicle non traffic accident	4	
+m v t a	motor vehicle traffic accident	4	
+major	minor	-100	
+mal union	malunion	5	
+malaena	melaena	3	
+malaria tabs	malaria prophylaxis	3	
+malena	malaena	2	
+malig neop	cancer	3	
+malig neop	malignant neoplasm	5	
+malig neop	neoplasm malignant	3	
+malignancy	cancer	5	
+malignancy	malignant neoplasm	4	
+malignancy	neoplasm malignant	3	
+malignant melanoma	malignant melanoma of skin	1	
+malignant neoplasm	ca	4	
+malignant neoplasm	cancer	5	
+malignant neoplasm	carcinoma	3	
+malignant neoplasm	malig neop	5	
+malignant neoplasm	malignancy	4	
+malignant neoplasm	neoplasm malignant	4	
+malignant neoplasm of cervix uteri	cervical cancer	5	
+malunion	mal union	5	
+mau	hospital	1	
+maxillary sinus	sinuses	1	
+maxillary sinuses	sinuses	1	
+measles / mumps / rubella	mmr	3	
+measles mumps and rubella	mmr	4	
+measles mumps rubella	mmr	3	
+med a	death cert	3	
+med a	death certificate	5	
+medial	lateral	-100	
+medical assessment unit	hospital	1	
+melanoma	malignant melanoma	2	
+menopausal	menopause	2	
+menstrual cycle	periods	2	
+mental health act	mha	3	
+metastases	metastasis	5	
+metastases	secondary malignant neoplasm	4	
+metastasis	metastases	5	
+metastasis	secondary malignant neoplasm	4	
+metastatic adenocarcinoma	adenocarcinoma	1	
+metastatic carcinoma	carcinoma	1	
+metastatic mm	malignant melanoma	2	
+metastatic neoplasm	neoplasm	1	
+metatarsophalangeal	mtp	4	
+mets	metastasis	3	
+mg	milligram	5	
+mha	mental health act	3	
+mi	acute myocardial infarction	4	
+mi	myocardial infarction	4	
+mi acute myocardial infarction	acute myocardial infarction	3	
+middle finger	finger	1	
+mild	mildly	5	
+mildly	mild	5	
+milk exclusion	milk free diet	3	
+milligram	mg	5	
+milti	multi	1	
+minor	major	-100	
+mitralstenos	mitral stenosis	3	
+mmr	measles mumps and rubella	4	
+mmr	measles mumps rubella	3	
+mmr	mmr immunisation	3	
+mmr	mmr vaccination	3	
+mmr immunisation	given mmr immunisation	3	
+mmr vaccination	given mmr immunisation	3	
+mmr vaccn	given mmr immunisation	3	
+mnt	mental	3	
+mod	moderate	4	
+mod	moderately	4	
+moderate	mod	4	
+moderate	moderately impaired	3	
+moderately	mod	4	
+moderately impaired	moderate	3	
+mothr	mother	3	
+motion	stool	3	
+motion	stools	3	
+motions	stool	3	
+motions	stools	3	
+motor vehicle	mv	4	
+motor vehicle non traffic accident	m v n t a	4	
+motor vehicle non traffic accident	mvnta	4	
+motor vehicle traffic accident	m v t a	4	
+motor vehicle traffic accident	mvta	4	
+mtp	metatarsophalangeal	4	
+mulit	multi	2	
+multi organ	multiple organ	5	
+multiple organ	multi organ	5	
+muscle	muscular	5	
+muscular	muscle	5	
+mv	motor vehicle	4	
+mvnta	motor vehicle non traffic accident	4	
+mvta	motor vehicle traffic accident	4	
+mvta	road traffic accident	3	
+myo	myocardial	2	
+myo infarc	myocardial infarction	4	
+myocardial infarction	m i	4	
+myocardial infarction	mi	4	
+myocardial infarction	myo infarc	4	
+n a d	normal	5	
+n e c	not elsewhere classified	4	
+n i d d m	non insulin dependent diabetes mellitus	4	
+n o s	not otherwise specified	4	
+nad	normal	4	
+nasal	nose	4	
+nausea	nausea symptom	4	
+nausea	nausea symptoms	4	
+nausea symptom	nausea	4	
+nausea symptoms	nausea	4	
+nec	not elsewhere classified	4	
+neck	cervical	2	
+neck	cervix uteri	-100	
+neck rigidity	neck stiffness	3	
+necrotising	necrotizing	5	
+necrotizing	necrotising	5	
+negative	not detected	4	
+neonat	neonate	4	
+neonat	neonatorum	4	
+neonate	neonat	4	
+neonatorum	neonat	4	
+neop	neoplasm	4	
+neoplasm	neop	4	
+neoplasm malignant	cancer	4	
+neoplasm malignant	malignant neoplasm	4	
+niddm	non insulin dependent diabetes mellitus	4	
+night	overnight	4	
+nits	head lice	3	
+no	absent	4	
+no	not	2	
+no	without	4	
+no left ventricular impairment	good left ventricular function	3	
+no lv impairment	good left ventricular function	4	
+no sinus disease	sinus nad	4	
+no sinus disease	sinus normal	4	
+nof	neck of femur	3	
+non drinker	not drink	5	
+non insulin dependent diabetes mellitus	n i d d m	4	
+non insulin dependent diabetes mellitus	niddm	4	
+non st elevation mi	acute non st segment elevation myocardial infarction	4	
+non stemi	non st elevation myocardial infarction	3	
+non union	nonunion	5	
+nonstemi	acute non st segment elevation myocardial infarction	3	
+nonunion	non union	5	
+normal	n a d	5	
+normal	nad	4	
+normal bs	bowel sounds normal	1	
+nos	not otherwise specified	4	
+nose	nasal	4	
+nose bleed	epistaxis	4	
+not	absent	4	
+not	no	2	
+not dehydrated	well hydrated	5	
+not detected	negative	4	
+not diagnosed	not yet diagnosed	3	
+not diagnosed	undiagnosed	3	
+not drink	non drinker	5	
+not eaten	lack of appetite	3	
+not eating	lack of appetite	3	
+not elsewhere classified	n e c	4	
+not elsewhere classified	nec	4	
+not otherwise specified	n o s	4	
+not otherwise specified	nos	4	
+not yet diagnosed	not diagnosed	3	
+not yet diagnosed	undiagnosed	3	
+notif	notification	5	
+notification	notif	5	
+nstemi	acute non st segment elevation myocardial infarction	3	
+o / e nad	examination normal	3	
+o / e normal	examination normal	3	
+o / night	night	3	
+o / night	overnight	3	
+o e normal	examination normal	3	
+o p d	o p dept	5	
+o p dept	o p d	5	
+o p dept	opd	5	
+o p dept	out patients	5	
+o p dept	outpatients	5	
+oa	osteoarthritis	2	
+obj	object	4	
+object	obj	4	
+obstruct	obstructive	4	
+obstructive	obstruct	4	
+occ	occuring	4	
+occluded	disease	2	
+occluded	occlusion	5	
+occluded	stenosis	5	
+occlusion	disease	2	
+occlusion	occluded	5	
+occlusion	stenosis	5	
+occuring	occ	4	
+ocd	obsessive compulsive disorder	3	
+oe nad	examination normal	3	
+oe normal	examination normal	3	
+oedema	oedema symptom	4	
+oedema	oedema symptoms	4	
+oedema	swelling	1	
+oedema symptom	oedema	4	
+oedema symptoms	oedema	4	
+oedematous ankles	leg oedema	3	
+oedematous legs	ankle oedema	3	
+oesoph	oesophageal	3	
+oesoph	oesophagus	3	
+oesophageal	oesphagus	5	
+oesphagus	oesophageal	5	
+of the heart	cardiac	3	
+of the heart	coronary	3	
+omental	omentum	3	
+omentum	omental	3	
+on echo	echocardiogram shows	3	
+one	1	5	
+one	single	5	
+one diseased vessel	single coronary vessel disease	3	
+one vessel disease	single coronary vessel disease	3	
+opd	o p dept	5	
+opd	out pat	5	
+opd	outpatient	5	
+opd	outpatients	5	
+open	opn	3	
+ophth	opthalmia	4	
+opn	open	3	
+opthalmia	ophth	4	
+ortho	orthopaedic	3	
+ortho	orthopaedic clinic	3	
+ortho	orthopaedic surgeon	3	
+osteo arthritis	osteoarthritis	5	
+osteoarthritis	osteo arthritis	5	
+osteoporosis	osteoporotic	5	
+osteoporotic	osteoporosis	5	
+oth	other	4	
+other	oth	4	
+out hosp	recently in hospital	1	
+out hospital	discharged from hospital	1	
+out hospital	recently in hospital	1	
+out of hosp	recently in hospital	2	
+out of hospital	discharged from hospital	2	
+out of hospital	recently in hospital	2	
+out pat	opd	5	
+out pat	outpatient	5	
+out pat	outpatients	5	
+out patients	o p dept	5	
+outpatient	opd	5	
+outpatient	out pat	5	
+outpatients	clinic	5	
+outpatients	o p dept	5	
+outpatients	opd	5	
+outpatients	out pat	5	
+ovarian	ovary	3	
+ovate	ovale	1	
+overdose	overdose of drug	2	
+overnight	night	4	
+p d a	posterior descending artery	4	
+p i d	pelvic inflammatory disease	4	
+p n	postnatal	4	
+p n d	paroxysmal nocturnal dyspnoea	4	
+p r	p r	4	
+p r	pr	4	
+pain	pain symptom	4	
+pain	pain symptoms	4	
+pain	painful	5	
+pain	pains	5	
+pain symptom	pain	4	
+pain symptoms	pain	4	
+painful	pain	5	
+pains	pain	5	
+palm	hand	1	
+palpitation	palpitations	4	
+palpitations	palpitation	4	
+pancreas	pancreatic	4	
+pancreatic	pancreas	4	
+para	parity	5	
+paracetamol	drug	1	
+parity	para	5	
+parkinsons	parkinson disease	3	
+paroxysmal nocturnal dyspnoea	p n d	4	
+pda	posterior descending artery	4	
+pe	pulmonary embolus	3	
+pedal cycle	bicycle	5	
+pediculus capitis	head lice	3	
+pediculus corporis	body lice	3	
+pediculus pubis	pubic lice	3	
+pelvic	pelvis	5	
+pelvic inflammatory disease	p i d	4	
+pelvis	pelvic	5	
+perf	perforated	4	
+perforat	perforation	5	
+perforated	perf	4	
+perforation	perforat	5	
+perimenopausal	menopausal	1	
+perimenopausal	menopause	1	
+perineal tear	perineal tear during delivery	1	
+period cycle	period	3	
+periods	menstrual cycle	2	
+periods cycle	periods	3	
+phalanges	phalanx	3	
+phalanx	phalanges	3	
+phlegm	sputum	3	
+phthirus pubis	pubic lice	3	
+physio	physiotherapist	3	
+physiotherapist	physiotherapy	3	
+physiotherapy	physiotherapist	3	
+pigmented mole	pigmented naevus	3	
+pip	proximal interphalangeal	5	
+pm report	pm	3	
+pm report	post mortem	3	
+pm report	post mortem report	3	
+polio	poliomyelitis	5	
+poliomyelitis	polio	5	
+poor	failure	2	
+poor	impaired	3	
+poor	severely impaired	3	
+poor appetite	lack of appetite	3	
+poor ef	impaired left ventricular function	3	
+poor ejection fraction	impaired left ventricular function	3	
+poor lv	impaired left ventricle	3	
+poor lv	impaired left ventricular	3	
+poor lv	impaired left ventricular function	3	
+poor lv function	impaired left ventricular function	3	
+position	posn	5	
+positive	detected	4	
+posn	position	5	
+post	posterior	5	
+post mortem	pm	3	
+post nasal	postnasal	5	
+posterior	post	5	
+posterior descending artery	p d a	4	
+posterior descending artery	pda	4	
+postnasal	post nasal	5	
+postnatal	p n	4	
+postnatal	postpartum	5	
+postpartum	postnatal	5	
+pr	p r	4	
+preg	pregnant	4	
+pregnant	preg	4	
+present	positive	2	
+preserved	good	5	
+previous	history of	3	
+prim	primary	2	
+prob	problem	4	
+problem	prob	4	
+proprioception	joint position sense	5	
+proprioception	joint posn sense	5	
+prostate	prostatic	4	
+prostatic	prostate	4	
+proximal	distal	-100	
+proximal humerus	upper end of humerus	3	
+proximal interphalangeal	pip	5	
+proximal radius	upper end of radius	3	
+proximal ulna	upper end of ulna	3	
+psoriatic	psoriasis	2	
+psych	psychiatric	5	
+psychiatric	psych	5	
+psychiatrist	psychiatry	5	
+psychiatry	psychiatrist	5	
+pubic lice	crabs	3	
+pubic lice	pediculus pubis	3	
+pubic lice	phthirus pubis	3	
+publ	public	5	
+public	publ	5	
+pul	pulmonary	1	
+pulm	pulmonary	2	
+pulmonary	lung	3	
+pv	vaginal	3	
+pv bleeding	vaginal haemorrhage	3	
+pvd	peripheral vascular disease	2	
+pyrexia	fever	5	
+q r s	q r s	4	
+q r s	qrs	4	
+qrs	q r s	4	
+r	right	3	
+r b b b	right bundle branch block	4	
+r c a	right coronary artery	4	
+r d s	respiratory distress syndrome	5	
+r i f	right iliac fossa	5	
+r i n d	reversible ischaemic neuro deficit	5	
+r i n d	reversible ischaemic neurological deficit	5	
+r t a	road traffic accident	4	
+r t a	rta	5	
+rad	radius	3	
+radial	radius	5	
+radius	radial	5	
+rbbb	right bbb	4	
+rbbb	right bundle branch block	4	
+rca	right coronary artery	4	
+rds	respiratory distress syndrome	5	
+rdw	red blood cell distribution	4	
+rdw	red cell distribution width	4	
+receiv	receive	5	
+receiv	received	5	
+receive	receiv	5	
+received	receiv	5	
+recent admission	recently in hospital	2	
+recent hosp	recently in hospital	1	
+recent hospital	recently in hospital	1	
+recent hospitalisation	hospital inpatient	3	By R code
+recent hospitalisation	recently in hospital	2	
+recent hospitalization	recently in hospital	2	
+recent in hosp	recently in hospital	2	
+recent in hospital	recently in hospital	2	
+recently hospitalised	hospital inpatient	3	By R code
+recently in hospital	hospital inpatient	3	By R code
+rectal	rectally	4	
+rectal	rectum	5	
+rectally	rectal	4	
+rectum	rectal	5	
+red blood cell distribution	rdw	4	
+red cell distribution width	rdw	4	
+refer	referral	5	
+refer	referred	4	
+referral	refer	5	
+referral	referred	5	
+referred	refer	4	
+referred	referral	5	
+referred pain	pain	2	
+reffered	referred	3	
+renal	kidney	4	
+renal or ureteric	renal tract	3	
+renal tract	kidney and ureter	3	
+renal tract	kidney or ureter	3	
+renal tract	renal or ureteric	3	
+repat	repeat	1	
+reported	referred	2	
+resid inst	residential institution	5	
+residential institution	resid inst	5	
+resp fail	respiratory failure	3	
+respiratory	chest	2	
+respiratory	resp system	3	
+respiratory distress syndrome	r d s	5	
+respiratory distress syndrome	rds	5	
+restest	retest	1	
+restless legs	restless legs syndrome	2	
+resulting from	due to	5	
+resulting in	causing	5	
+resulting in	complicated by	5	
+reversible ischaemic neuro deficit	r i n d	5	
+reversible ischaemic neuro deficit	rind	5	
+reversible ischaemic neurological deficit	r i n d	5	
+reversible ischaemic neurological deficit	rind	5	
+review	reviewed	5	
+reviewed	review	5	
+rheum	rheumatic	2	
+rheum	rheumatism	2	
+rheum	rheumatoid	2	
+rif	right iliac fossa	2	
+right	left	-100	
+right	lt	-100	
+right	r	3	
+right	right side	4	
+right	right sided	4	
+right	rt	3	
+right bbb	rbbb	4	
+right bundle branch block	r b b b	4	
+right bundle branch block	rbbb	4	
+right coronary artery	r c a	4	
+right coronary artery	rca	4	
+right coronary artery disease	right coronary artery stenosis	5	
+right coronary artery disease	right coronary stenosis	5	
+right coronary artery stenosis	right coronary artery disease	5	
+right coronary stenosis	right coronary artery disease	5	
+right iliac fossa	r i f	5	
+right iliac fossa	rif	2	
+right side	right	4	
+right sided	right	4	
+rigor	rigor symptom	4	
+rigor	rigor symptoms	4	
+rigor symptom	rigor	4	
+rigor symptoms	rigor	4	
+rind	reversible ischaemic neuro deficit	5	
+rind	reversible ischaemic neurological deficit	5	
+ring finger	finger	1	
+road traffic accident	mvta	3	
+road traffic accident	r t a	4	
+road traffic accident	rta	4	
+rsi	repetitive strain injury	2	
+rt	left	-100	
+rt	right	3	
+rta	r t a	5	
+rta	road traffic accident	4	
+running	strenuous exertion	2	
+rupture	injury	2	
+rupture	ruptured	4	
+ruptured	injured	2	
+ruptured	injury	2	
+ruptured	rupture	4	
+ruq	right upper quadrant	2	
+s c c	squamous cell carcinoma	4	
+s i d s	sudden infant death syndrome	4	
+s l e	systemic lupus erythematosus	5	
+s l r	straight leg raise	5	
+s l r	straight leg raising	5	
+s o b	short of breath	5	
+s r	sinus rhythm	3	
+s t	s t	5	
+s t	st	5	
+s v c o	superior vena cava obstruction	5	
+sad	seasonal affective disorder	2	
+sah	subarachnoid haemorrhage	3	
+sbe	subacute bacterial endocarditis	3	
+scap	scapula	3	
+scc	squamous cell carcinoma	4	
+scid	severe combined immunodeficiency	4	
+sd 17	cause of death clarif	3	
+sd 18	cause of death clarif	3	
+seasonal affective disorder	sad	2	
+second	2 nd	5	
+second lumbar	l 2	5	
+second toe	toe	2	
+secondaries	secondary deposits	5	
+secondaries	secondary malignant neoplasm	4	
+secondary	2 ndry	4	
+secondary deposits	secondaries	5	
+secondary malignant neoplasm	metastases	4	
+secondary malignant neoplasm	metastasis	4	
+secondary malignant neoplasm	secondaries	4	
+self discharge	patient self discharge	2	
+self discharged	patient self discharge	2	
+self harm	self inflicted injury	5	
+self inflicted injury	self harm	5	
+send a e	refer to hospital casualty	3	
+send accident emergency	refer to hospital casualty	3	
+sent a e	refer to hospital casualty	3	
+sent accident emergency	refer to hospital casualty	3	
+sent home	discharged from inpatient care	2	
+sent hospital	refer to hospital	3	
+sent to a and e	refer to hospital casualty	3	
+sent to a e	refer to hospital	3	
+sent to a e	refer to hospital casualty	3	
+sent to accident and emergency	refer to hospital casualty	3	
+sent to accident emergency	refer to hospital casualty	3	
+sent to hospital	refer to hospital	3	
+sev	severe	4	
+sev	severely	4	
+seventh cervical	c 7	5	
+severe	sev	4	
+severe	severely	5	
+severe 3 vessel	3 vessel	2	
+severe 3 vessel	three vessel	2	
+severe combined immunodeficiency	scid	4	
+severe stenosis	stenosis	4	
+severe stenosis	tight stenosis	4	
+severe three vessel	three vessel	2	
+severely	sev	4	
+severely	severe	5	
+severely impaired	very poor	5	
+short of breath	dyspnoea	5	
+short of breath	s o b	5	
+short of breath	shortness of breath	5	
+short of breath	sob	5	
+shortness of breath	short of breath	5	
+shoulder	shoulder joint	5	
+shoulder	upper limb	1	
+shoulder joint	shoulder	5	
+side	sided	5	
+side effect	adverse reaction to	2	
+side effect of	adverse reaction to	2	
+side effects	adverse reaction to	2	
+side effects of	adverse reaction to	2	
+sided	side	5	
+sids	sudden infant death syndrome	3	
+single	1	4	
+single	one	5	
+single vessel disease	single coronary vessel disease	3	
+sinus nad	no sinus disease	4	
+sinus normal	no sinus disease	4	
+sinus trouble	sinus problem	3	
+sixth cervical	c 6	5	
+sle	systemic lupus erythematosus	5	
+slr	straight leg raise	5	
+slr	straight leg raising	5	
+smith	smiths	5	
+smiths	smith	5	
+smoked	smoked tobacco	3	
+smoker	smokes	5	
+smokes	smoker	5	
+sob	breathless	4	
+sob	breathlessness	4	
+sob	short of breath	5	
+social	socially	4	
+socially	social	4	
+soft bs	bowel sounds	1	
+spasm	spasms	5	
+spasms	spasm	5	
+spinal	spiral	-100	
+spiral	spinal	-100	
+spleen	splenic	3	
+splenic	spleen	3	
+splinter	splinters	4	
+splinters	splinter	4	
+sprain	sprained	5	
+sprained	sprain	5	
+sputum	phlegm	3	
+squamous cell carcinoma	s c c	4	
+squamous cell carcinoma	scc	4	
+sr	sinus rhythm	3	
+st	s t	5	
+st elevation	st segment elevation	4	
+st elevation mi	acute st segment elevation myocardial infarction	4	
+st segment elevation	st elevation	4	
+staph	staphylococcus	5	
+staphylococcus	staph	5	
+std	sexually transmitted disease	2	
+stemi	acute st segment elevation myocardial infarction	4	
+stenosed	blocked	5	
+stenosed	stenosis	5	
+stenosis	blockage	5	
+stenosis	blocked	5	
+stenosis	disease	3	
+stenosis	occluded	5	
+stenosis	occlusion	5	
+stenosis	severe stenosis	4	
+stenosis	stenosed	5	
+stenosis	tight stenosis	5	
+stidor	stridor	3	
+stiff	stiffness	3	
+stiffness	stiff	3	
+stomach	gastric	3	
+stone	calculus	3	
+stones	calculi	3	
+stones	calculus	2	
+stool	motion	3	
+stool	motions	3	
+stools	motion	3	
+stools	motions	3	
+str faecalis	strep faecalis	5	
+str faecalis	streptococcus faecalis	5	
+straight leg raise	s l r	5	
+straight leg raise	slr	5	
+straight leg raising	s l r	5	
+straight leg raising	slr	5	
+stre faecalis	strep faecalis	5	
+strep faecalis	str faecalis	5	
+strep faecalis	stre faecalis	5	
+strep faecalis	streptococcus faecalis	5	
+streptococcus faecalis	str faecalis	5	
+streptococcus faecalis	strep faecalis	5	
+stroke	c v a	4	
+stroke	cva	4	
+sub mental	submental	5	
+subacute bacterial endocarditis	sbe	3	
+submental	sub mental	5	
+sudden infant death syndrome	s i d s	4	
+sudden infant death syndrome	sids	3	
+sugar	glucose	3	
+superior vena cava obstruction	s v c o	5	
+superior vena cava obstruction	svco	5	
+supra ventricular	supraventricular	5	
+supraclav	supraclavicular	5	
+supraclavicular	supraclav	5	
+supraventricular	supra ventricular	5	
+surgeon	surgery	3	
+surgery	surgeon	3	
+surgical clinic	general surgery	5	
+svco	superior vena cava obstruction	5	
+swallow ok	no problem swallowing	3	
+swallow satisfactory	no problem swallowing	3	
+swallowing ok	no problem swallowing	3	
+swallowing satisfactory	no problem swallowing	3	
+swelling	oedema	1	
+swelling	swelling symptom	4	
+swelling	swelling symptoms	4	
+swelling	swollen	4	
+swelling symptom	swelling	4	
+swelling symptoms	swelling	4	
+swollen	swelling	4	
+symptoms	discomfort	2	
+syndrome	disorder	1	
+systemic lupus erythematosus	s l e	5	
+systemic lupus erythematosus	sle	5	
+t 11 / 12	thoracic	3	
+t 11 t 12	thoracic	3	
+t 12	twelfth thoracic	5	
+t 12 / l 1	lumbar	2	
+t 12 / l 1	thoracic	2	
+t 12 l 1	lumbar	2	
+t 12 l 1	thoracic	2	
+t a t t	tired all the time	5	
+t b	tuberculosis	5	
+t i a	transient ischaemic attack	4	
+t i b c	total iron binding capacity	5	
+t s h	thyroid stimulating hormone	4	
+tablets	tabs	4	
+tabs	tablets	4	
+taken hospital	referred hospital	3	
+taken to a and e	refer to a and e department	3	
+taken to hospital	referred to hospital	3	
+talar	talus	5	
+talus	talar	5	
+tatt	tired all the time	5	
+tb	tuberculosis	5	
+tear	derangement	2	
+tender	tenderness	5	
+tender over	tender	3	
+tender over	tenderness	3	
+tenderness	tender	5	
+thigh	leg	1	
+thigh	lower limb	1	
+third	3 rd	5	
+third cervical	c 3	5	
+third lumbar	l 3	5	
+third toe	toe	2	
+thoracic aneurysm	thoracic aortic aneurysm	2	
+three	3	5	
+three	triple	5	
+three diseased vessels	triple coronary vessel disease	5	
+three vessel coronary disease	triple vessel disease of the heart	5	
+three vessel disease	triple coronary vessel disease	3	
+three vessel disease	triple vessel disease	4	
+three vessel disease	triple vessel disease of the heart	2	
+thumb	hand	1	
+thyr	thyroid	2	
+thyroid deficiency	hypothyroidism	5	
+thyroid stimulating hormone	t s h	4	
+thyroid stimulating hormone	tsh	4	
+thyrotoxicosis	hyperthyroidism	5	
+thyrotoxicosis	thyroid dysfunction	3	
+tia	transient ischaemic attack	4	
+tib	tibial	5	
+tibc	total iron binding capacity	5	
+tibia	tibial	5	
+tibial	tib	5	
+tibial	tibia	5	
+tight stenosis	severe stenosis	4	
+tight stenosis	stenosis	5	
+tired all the time	t a t t	5	
+tired all the time	tatt	5	
+toe	finger	-100	
+toe	foot	1	
+toler	tolerance	4	
+toleran	tolerance	4	
+tolerance	toler	4	
+tolerance	toleran	4	
+tooth	dental	3	
+total iron binding capacity	t i b c	5	
+total iron binding capacity	tibc	5	
+tourette	gilles de la tourette	3	
+tourette	gilles de la tourettes	3	
+transient ischaemic attack	t i a	4	
+transient ischaemic attack	tia	4	
+trapezious	trapezius	3	
+traum	trauma	4	
+traum	traumatic	4	
+trauma	traum	4	
+trauma	traumatic	4	
+trauma self referral	casualty self referral	3	
+traumatic	traum	4	
+traumatic	trauma	4	
+triple	3	4	
+triple	three	5	
+triple coronary vessel disease	three diseased vessels	5	
+triple vessel coronary disease	triple vessel disease of the heart	5	
+triple vessel disease	three vessel disease	4	
+triple vessel disease of the heart	3 vessel coronary disease	5	
+triple vessel disease of the heart	coronary artery disease three vessel	5	
+triple vessel disease of the heart	three vessel coronary disease	5	
+triple vessel disease of the heart	triple vessel coronary disease	5	
+tsh	thyroid stimulating hormone	4	
+tuberculosis	t b	5	
+tuberculosis	tb	5	
+tuberculosis vaccination	bcg	5	
+twelfth thoracic	t 12	5	
+two	2	5	
+two	double	5	
+two vessel disease	double coronary vessel disease	3	
+type 1 diabetes	type 1 diabetes mellitus	3	
+type 1 diabetes	type i diabetes	5	
+type 1 respiratory failure	respiratory failure	2	
+type 2	type ii	5	
+type 2 diabetes	type ii diabetes	5	
+type 2 respiratory failure	respiratory failure	2	
+type i diabetes	type 1 diabetes	5	
+type i diabetes	type 1 diabetes mellitus	3	
+type i diabetes	type i diabetes mellitus	3	
+type ii	type 2	5	
+type ii diabetes	type 2 diabetes	5	
+type ii diabetes	type 2 diabetes mellitus	3	
+type ii diabetes	type ii diabetes mellitus	3	
+u m n	upper motor neuron	5	
+u m n	upper motor neurone	5	
+u r t i	upper respiratory tract infection	4	
+u t i	urinary tract infection	5	
+ulna	ulnar	5	
+ulnar	ulna	5	
+umn	upper motor neuron	5	
+umn	upper motor neurone	5	
+uncertain	unknown	4	
+undiagnosed	not diagnosed	3	
+undiagnosed	not yet diagnosed	3	
+unknown	uncertain	4	
+unsp	unspecified	4	
+unspec	unspecified	4	
+unspecified	unsp	4	
+unspecified	unspec	4	
+unweill	unwell	1	
+up	high	1	
+upper arm	arm	1	
+upper arm	upper limb	1	
+upper end humerus	proximal humerus	1	
+upper end of humerus	proximal humerus	3	
+upper end of radius	proximal radius	3	
+upper end of ulna	proximal ulna	3	
+upper end radius	proximal radius	1	
+upper end ulna	proximal ulna	1	
+upper motor neuron	u m n	5	
+upper motor neuron	umn	5	
+upper motor neurone	u m n	5	
+upper motor neurone	umn	5	
+upper respiratory tract infection	u r t i	4	
+upper respiratory tract infection	urti	4	
+urinary tract infection	u t i	5	
+urinary tract infection	uti	5	
+urti	upper respiratory tract infection	4	
+urticaria	urticarial	5	
+urticarial	urticaria	5	
+uterine	uterus	5	
+uterus	uterine	5	
+uti	urinary tract infection	5	
+v e	vaginal examination	5	
+v s d	ventricular septal defect	5	
+vaccin	vaccination	4	
+vaccination	immunisation	5	
+vaccination	immunization	5	
+vaccination	vaccin	4	
+vaccn	immunisation	3	
+vaccn	vaccination	3	
+vag	vagina	4	
+vag	vaginal	5	
+vagina	vag	4	
+vaginal	pv	3	
+vaginal	vag	5	
+vaginal examination	v e	5	
+vaginal examination	ve	5	
+vascular	cardiovascular	1	
+vasular	vascular	2	
+ve	vaginal examination	5	
+veh	vehicle	4	
+vehicle	veh	4	
+ventricle	ventricular function	3	
+ventricular	ventricular cardiac	3	
+ventricular cardiac	ventricular	3	
+ventricular cardiac aneurysm	left ventricular aneurysm	4	
+ventricular function	ventricle	3	
+ventricular premature beats	vpb	3	
+ventricular septal defect	v s d	5	
+ventricular septal defect	vsd	5	
+vertebra	vertebral	5	
+vertebral	vertebra	5	
+very poor	severely impaired	5	
+vessel	vessell	5	
+vessel coronary artery disease	coronary vessel disease	5	
+vessel disease	coronary vessel disease	2	
+vessel disease	diseased vessel	5	
+vessel disease	diseased vessels	5	
+vessell	vessel	5	
+vomit	vomiting	4	
+vomited	vomiting	3	
+vomiting	vomit	4	
+vomiting	vomiting symptom	4	
+vomiting	vomiting symptoms	4	
+vomiting symptom	vomiting	4	
+vomiting symptoms	vomiting	4	
+vomitting	vomiting	3	
+vommiting	vomiting	3	
+vpb	ventricular premature beats	3	
+vsd	ventricular septal defect	5	
+vulva	vulval	4	
+vulval	vulva	4	
+walking	mild exertion	2	
+was hosp	recently in hospital	1	
+was hospital	recently in hospital	1	
+was in hosp	recently in hospital	2	
+was in hospital	recently in hospital	2	
+water transport	wt	3	
+well hydrated	not dehydrated	5	
+went a e	casualty self referral	1	
+went cas	casualty self referral	3	
+went casualty	casualty self referral	3	
+went hospital	self referral to hospital	3	
+went to a and e	casualty self referral	4	
+went to a e	casualty self referral	1	
+went to cas	casualty self referral	3	
+went to casualty	casualty self referral	3	
+went to hospital	self referral to hospital	3	
+wheeze	wheezing	5	
+wheeze	wheezy	5	
+wheezing	wheeze	5	
+wheezing	wheezy	5	
+wheezy	wheeze	5	
+wheezy	wheezing	5	
+whip lash	whiplash	5	
+whiplash	whip lash	5	
+whiplash	whiplash injury	2	
+without	no	4	
+wnd	wound	3	
+wrist	arm	1	
+wrist	upper limb	1	
+wrist	wrist joint	5	
+wrist joint	wrist	5	
+wt loss	weight loss	3	

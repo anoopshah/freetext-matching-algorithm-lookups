@@ -1,0 +1,16 @@
+Con: 0
+Episode=F
+Episode=N
+Episode=O
+Hide=N
+Hosp: 0
+Location=Attendance at surgery
+Location=Elsewhere (non GMS)
+Location=Outpatient (NHS)
+Location=Visit
+Spec: 0
+START_1.00
+START_1.00 Episode : F
+START_1.00 Episode : N
+START_1.00 Episode : O
+START_SUMMARY:

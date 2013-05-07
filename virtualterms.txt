@@ -1,0 +1,11 @@
+medcode	term	stdterm	attrstring	comment
+500000	Left anterior descending disease	 left anterior descending disease 	TTTT	
+500001	Left main stem disease	 left main stem disease 	TTTT	
+500002	Left coronary artery disease	 left coronary artery disease 	TTTT	
+500003	Right coronary artery disease	 right coronary artery disease 	TTTT	
+500004	Posterior descending artery disease	 posterior descending artery disease 	TTTT	
+500005	Good left ventricular function	 good left ventricular function 	TTTT	
+500006	Mildly impaired left ventricular function	 mildly impaired left ventricular function 	TTTTT	
+500007	Moderately impaired left ventricular function	 moderately impaired left ventricular function 	TTTTT	
+500008	Severely impaired left ventricular function	 severely impaired left ventricular function 	TTTTT	
+500009	Circumflex coronary artery disease	 circumflex coronary artery disease 	TTTT	
