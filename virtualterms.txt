@@ -9,3 +9,4 @@ medcode	term	stdterm	attrstring	comment
 500007	Moderately impaired left ventricular function	 moderately impaired left ventricular function 	TTTTT	
 500008	Severely impaired left ventricular function	 severely impaired left ventricular function 	TTTTT	
 500009	Circumflex coronary artery disease	 circumflex coronary artery disease 	TTTT	
+
