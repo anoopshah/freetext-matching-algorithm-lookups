@@ -168,7 +168,7 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 965	death		cert|certificate	*	*	*					_	_	deathcause			TRUE		
 968	cause		of		death	*	*	*			_	_	_	deathcause		TRUE		
 969	await		cause		of		death	*			anon	anon	anon	anon		FALSE		
-970	dr	*									anon					FALSE		
+970	dr|anonymised	*									anon					FALSE		
 971	dr	.	*	*							anon	anon				FALSE		
 972	dr	*	*	.	*						anon	anon	anon			FALSE		
 973	dr	*	*	.	*	.	*				anon	anon	anon	anon		FALSE		
