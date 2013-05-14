@@ -10733,4 +10733,3 @@ medcode	stdterm	attrstring	linkto	comment
 610732	 preserved left ventricular function 	TTTT	500005	
 610733	 good left ventricular systolic function 	TTTTT	10325	
 610734	 good right ventricular systolic function 	TTTTT	57943	
-
