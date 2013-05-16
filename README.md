@@ -116,14 +116,14 @@ Format: Tab-separated text file with no quotes, sorted by text, then read, then 
 
 * text -- word or phrase in the free text
 * read -- word or phrase in a Read term
-* priority -- a number between 1 and 5:
-    1 -- loosely associated (s2 wider than s1) e.g. foot (is a part of) = lower limb
-    2 -- non-standard abbreviation or distorted form; possible one-way match (read phrase broader than text phrase)
+* priority -- a number between 1 and 5:  
+    * 1 -- loosely associated (read phrase broader than text phrase) e.g. foot (is a part of) = lower limb
+    * 2 -- non-standard abbreviation or distorted form; possible one-way match (read phrase broader than text phrase)
         e.g. rsi = repetitive strain injury
-    3 --  moderate match e.g. b pne = bronchopneumonia; carcinoma (is a type of) = malignant neoplasm
-    4 -- almost exact match e.g. cancer = malignant neoplasm
-    5 -- exact match e.g. chronic obstructive pulmonary disease = copd
-    -100 -- opposites e.g. left / right
+    * 3 --  moderate match e.g. b pne = bronchopneumonia; carcinoma (is a type of) = malignant neoplasm
+    * 4 -- almost exact match e.g. cancer = malignant neoplasm
+    * 5 -- exact match e.g. chronic obstructive pulmonary disease = copd
+    * -100 -- opposites e.g. left / right
 * comment
 
 ## virtualterms
