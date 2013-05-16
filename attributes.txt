@@ -1,188 +1,188 @@
 order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
-397	son|daughter|grandfather|grandmother|relative|relation|family	*									 family					FALSE		
-398	rdw	_:=-	[NUMB_5_100]	*								LABS rdw				FALSE		
-399	red|blood		cell		distribution|dist		width	_:=-	[NUMB_5_100]	*					LABS rdw	FALSE		
-400	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE		
-401	[NUMB]		bpm|beats	*							LABS pulse					FALSE		
-402	p|pulse|af	_:=-	[NUMB_20_300]	*	reg|irreg|irrreg|irregular|regular|sinus|bpm|per|min|sr	*						LABS pulse				FALSE		
-405	[CLIN]		from|until|upto|at|when|while|[CLIN]		[ATTR age]		[ATTR age]	*			pmh	pmh	ageprev	ageprev		FALSE		
-406	pulse|hr|pulserate	_:=-	[NUMB_20_300]	*								LABS pulse				FALSE		
-407	age|aged	*	[DURA]	*							age	age				FALSE		
-409	[NUMB]		mg|mcg|g|gram|grams		/		l|dl|ml	*			.	.	.	.		FALSE		
-411	alb|albumin	_:=-	[NUMB_10_50]	*								LABS albumin				FALSE		
-415	full|complete		blood		count	_:=-	normal|abnormal	*						LABS fbc		FALSE		
-416	fbc|cbc	_:=-	normal|abnormal	*								LABS fbc				FALSE		
-417	ca|calcium	_:=-	[NUMB_1_4]	*								LABS calcium				FALSE		
-418	[CLIN]		over|for|during		past|last		[DURA]	*			_	ignore	ignore	duraprev		FALSE		
-422	[ATTR followup]		on|by		[DATE]	*					followup	followup	followup			FALSE		
-423	[ATTR followup]		in|within		[DURA]	*					followup	followup	followup			FALSE		
-424	[ATTR followup]		[DURA]|[DATE]	*							followup	followup				FALSE		
-425	hdl	_:=-	[NUMB]	*								LABS hdl				FALSE		
-426	international		normalised		ratio	_:=-	[NUMB_0.5_12]	*						LABS inr		FALSE		
-427	[ATTR followup]		[NUMB_1_12]		m	*					followup	DURA_mths followup	followup			FALSE		
-428	[ATTR followup]		[NUMB_1_12]		w	*					followup	DURA_wks_ followup	followup			FALSE		
-429	folate	_:=-	[NUMB]	*								LABS folate				FALSE		
-430	b		12	_:=-	[NUMB]	*							LABS cobalamin			FALSE		
-432	ferr|ferritin	_:=-	[NUMB]	*								LABS ferritin				FALSE		
-434	[ATTR followup]		[CLIN]		[DURA]|[DATE]	*					ignore	_	followup			FALSE		
-435	mcv	_:=-	[NUMB_60_120]	*								LABS mcv				FALSE		
-436	wbc|wcc|leucocyte|leucocytes	_:=-	[NUMB]	*								LABS wbc				FALSE		
-437	white|w	_.	blood|b	_.	cells|c	_:=-	[NUMB]	*						LABS wbc		FALSE		
-438	hb|hemoglobin|haemoglobin	_:=-	[NUMB_4_25]	*								LABS haemoglobin				FALSE		
-442	see|rv|rev|review|retest|reviewed|rpt|repeat|check|recall|recheck|clinic|opd|opa	*									followup					FALSE		
-443	follow|next		up|appt|appointment	*							followup	followup				FALSE		
-444	r	/	v	*							followup	followup				FALSE		
-445	tsh	_:=-	[NUMB]	*								LABS tsh				FALSE		
-446	urea	_:=-	[NUMB_2_30]	*								LABS urea				FALSE		
-449	cr|crea|creat|creatinine	_:=-	[NUMB_40_500]	*								LABS creatinine				FALSE		
-452	[CLIN]		since|for|last|past		[DURA]	*					_	duraprev	duraprev			FALSE		
-453	[DURA]		hx|hist|history		of		[CLIN]	*			duranext	ignore	ignore	_		FALSE		
-454	[ATTR pefr]		when		well|ok|good	*					anon	anon	anon			FALSE		
-455	[DURA]		hx|of|history		[CLIN]	*					duranext	ignore	_			FALSE		
-457	[DURA]		[CLIN]	*							duranext	_				FALSE		
-458	pred|predicted|usual|best|normal	.=:	[ATTR pefr]	*							anon	anon				FALSE		
-459	cert|certificate		[DURA]	*							sicknote	sicknote				FALSE		
-460	[CLIN]		[DURA]	*							_	duraprev				FALSE		
-484	hba		1		c	*	[NUMB]	*			ignore	ignore	ignore	LABS glyhb		FALSE		
-486	hba		1		c	*					ignore	ignore	ignore			FALSE		
-488	target|guideline|guidelines|guidance|ideal|ideally	*									normalrange					FALSE		
-498	dose|b|day		[NUMB]	*							anon	anon				FALSE		
-500	mi	_.	U	*							anon	anon				FALSE		
-505	[NUMB]	-	[NUMB]	)							normalrange	normalrange				FALSE		
-511	normal|reference|target|aim		range|for	*							anon	normalrange				FALSE		
-512	id|number|no	:=	[NUMB]	*							anon	anon				FALSE		
-540	[NUMB_60_230]		/		[NUMB_40_150]	*					LABS sysbp	ignore	LABS diabp			FALSE		
-541	[NUMB_60_230]	/	[NUMB_40_150]	*							LABS sysbp	LABS diabp				FALSE		
-543	pred|predicted|usual|best|normal		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE		
-545	[ATTR pefr]		usually|best|pred|predicted	*							anon	anon				FALSE		
-547	peak|pk		flow|fl	*	[NUMB]	*							LABS pefr			FALSE		
-548	pf|pef|pefr|pfr	_:=-	[NUMB_50_900]	*								LABS pefr				FALSE		
-549	last|history|[NUMB]		yr|yrs|year|years|mth|mths|month|months|of		[CLIN]	*					pmh	pmh	pmh			FALSE		
-550	had|several|freq|frequent|prev|previous|previously|recurrent		[CLIN]	*							pmh	pmh				FALSE		
-552	[CLIN]		[DURA]	*	[DURA]		ago	*				duraprev	duraprev	ignore		FALSE		
-553	for		nearly|almost|about		[DURA]	*					ignore	.	.			FALSE		
-556	t		3|4	*							ignore	anon				FALSE		
-557	t		3	_:=-	[NUMB]	*							LABS trithyroid			FALSE		
-558	t		4	_:=-	[NUMB]	*							LABS tetrathyroid			FALSE		
-559	[ATTR followup]		[CLIN]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*	followup	followup	followup	followup	followup	FALSE		
-560	[ATTR_followup]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*			followup	followup	followup	followup		FALSE		
-566	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE		
-569	[ATTR followup]		[CLIN]		[CLIN]		[DURA]|[DATE]	*			followup	_	_	followup		FALSE		
-572	esr	_:=-	[NUMB]	*								LABS esr				FALSE		
-573	inr	_:=-	[NUMB_0.5_12]	*								LABS inr				FALSE		
-576	ldl	_:=-	[NUMB]	*								LABS ldl				FALSE		
-577	tg|tri|trig|trigs|triglyceride|triglycerides	_:=-	[NUMB]	*								LABS triglycerides				FALSE		
-578	inr		[NUMB_0.7_12]	*								LABS inr				FALSE		
-579	[DURA]		ago|prev|previous|previously		causing|preceding		[CLIN]	*			duranext	ignore		ignore		FALSE		
-580	[DURA]		ago|prev|previous|previously		followed|leading|comp|complicated		by|to		[CLIN]	*	duranext	ignore	ignore	ignore	causing	FALSE		
-581	[DURA]		[DURA]		after|post		[CLIN]	*			duraprev	duraprev	ignore	_		FALSE		
-582	ch|chol|choles|cholesterol	_:=-	[NUMB]	*								LABS cholesterol				FALSE		
-592	[DURA]	*	[DURA]		old	*					age	age	age			FALSE		
-593	[NUMB]		mg|mcg|g|gram|grams	*							ignore	ignore				FALSE		
-595	pulse|pulserate|hr|heartrate		was|sinus|reg|regular|irreg|irregular	_:=-	[NUMB_20_300]	*							LABS pulse			FALSE		
-600	heart|pulse		rate		[NUMB_20_300]	*							LABS pulse			FALSE		
-603	if		*		then|refer|treat						possibility	possibility	possibility			FALSE		
-612	husband|wife|spouse|partner|husbands|wifes	*									family					FALSE		
-613	brother|sister|cousin|brothers|sisters|friend	*									family					FALSE		
-615	father|mother|uncle|aunt|fathers|mothers|mum|dad|grandmother|grandfather	*									family					FALSE		
-619	[ATTR family]		who		has|had		had|been|[CLIN]|[IGNO]		[CLIN]	*	family	family	family	family	family	FALSE		
-620	[ATTR family]		says|said|noticed|finds|thinks|concerned|worried|phoned|called|found	*							.	ignore				FALSE		
-621	given|shown|explained		to		[ATTR family]	*					.	.	.			FALSE		
-640	[ATTR family]		had|has|feels		*	*					family	family	family			FALSE		
-681	department|dept		of|for		*		*	*			anon	anon	anon	anon		FALSE		
-682	department|dept		of|for		*	*					anon	anon	anon			FALSE		
-683	consultant|clinician	:=	*		*	*					anon	anon	anon			FALSE		
-684	clinician	:=	[NUMB]	*							anon	anon				FALSE		
-685	location	:=	*		*		gms|centre|surgery|hospital|health|practice	*			anon	anon	anon	anon		FALSE		
-686	location	:=	*		gms|centre|surgery|hospital|health|practice	*					anon	anon				FALSE		
-687	location|clinician|consultant	:=	*	*							anon	anon				FALSE		
-688	location	:=	*		*	:					anon	anon	anon			FALSE		
-689	location	:=	*		*		*	:			anon	anon	anon	anon		FALSE		
-690	location	:=	*		*		*		*	:	anon	anon	anon	anon	anon	FALSE		
-691	urgency	:=	*								anon	anon				FALSE		
-706	[CLIN]		*		[DATE]	*					_	dateprev	dateprev			FALSE		
-707	[CLIN]		[DATE]	*							_	dateprev				FALSE		
-708	[DATE]		[CLIN]	*							datenext	_				FALSE		
-715	didn|doesn	'	t		find|seem|feel|have|experience		*	*			negative	negative	negative	negative		FALSE		
-717	denies|denied|absent		[CLIN]	*							negative	negative				FALSE		
-718	without		mention		of	*					negative	negative	negative			FALSE		
-719	[CLIN]	:_	none|neg|negative|excluded|absent	*							negative	negative				FALSE		
-720	[CLIN]		[CLIN]	:_	none|neg|negative|excluded|absent	*					negative	negative	negative			FALSE		
-721	no|not|absent|without|didnt|unlikely|never|neg|negative	*									negative					FALSE		
-723	lack|free|rather		of|than|from	*							negative	negative				FALSE		
-724	[CLIN]		test|result|[CLIN]		neg|negative|excluded	*					negative	negative	negative			FALSE		
-725	no|not		helped|helping|improvement|better|worse|change|different|changed	*							possibility	possibility				FALSE		
-726	[CLIN]		[CLIN]		test|result|[CLIN]		neg|negative|excluded	*			negative	negative	negative	negative		FALSE		
-727	can|may|might		cause|lead|make	*							possibility	possibility				FALSE		
-728	not		over|accepting|accepted	*							.	.				FALSE		
-732	no|not|never		past|ph|prev|previous|pmh|had|previously	*							negpmh	negpmh				FALSE		
-735	no		history|hx|pmh		of		[CLIN]	*			negpmh	ignore	ignore	negpmh		FALSE		
-736	[CLIN]		query	*							query	query				FALSE		
-737	[ATTR negpmh]		[CLIN]	*							negpmh	negpmh				FALSE		
-738	[CLIN]		query		[CLIN]	*					.	query	query			FALSE		
-739	may|could		be	*							query	query				FALSE		
-740	rule|thinks|think		out|he|she|has	*							query	query				FALSE		
-746	pos|poss|prob	._	[CLIN]	*							query	query				FALSE		
-747	probable|probably|maybe|possibly|query|suggested|exclude|suspected|suspicious	*									query					FALSE		
-768	[CLIN]		in		family	*					family	family	family			FALSE		
-769	no		[CLIN]		in		family	*			negfamily	negfamily	negfamily	negfamily		FALSE		
-770	f|fam|family		h|hx|hist|history		[CLIN]	*					family	family	family			FALSE		
-771	no		f|fam|family	_.	h|hx|hist|history	_.:	[CLIN]	*			negfamily	negfamily	negfamily	negfamily		FALSE		
-772	f|fam|family		h|hx|hist|history		of|[CLIN]		[CLIN]	*			family	family	family	family		FALSE		
-773	no		f|fam|family		h|hx|hist|history		of|[CLIN]		[CLIN]	*	negfamily	negfamily	negfamily	negfamily	negfamily	FALSE		
-774	fh	*	[CLIN]	*							family	family				FALSE		
-775	no		fh		[CLIN]	*					negfamily	negfamily	negfamily			FALSE		
-869	[CLIN]		[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis	*					possibility	possibility	possibility			FALSE		
-870	[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse	*							possibility	possibility				FALSE		
-871	fear|risk		of		[CLIN]		[CLIN]	*			possibility	possibility	possibility	possibility		FALSE		
-872	fear|risk		of		[CLIN]	*					possibility	possibility	possibility			FALSE		
-875	[DURA_wks_]		[DURA_wks_]		gest|gestation|preg|pregnant	*					LABS gest	LABS gest				FALSE		
-880	lmp	_:-	[DATE_full]|[DURA]	*							lmp	lmp				FALSE		
-882	edd	_:-	[DATE_full]	*							edd	edd				FALSE		
-885	last		period	_.:-	[DURA]|[DATE]	*					lmp	lmp	lmp			FALSE		
-886	e	_.	d	_.	d	_.:-	[DATE_full]	*			edd	edd	edd	edd		FALSE		
-887	l	_.	m	_.	p	_.:-	[DATE_full]	*			lmp	lmp	lmp	lmp		FALSE		
-906	cert|certified	_.	on|dead|deceased|at	_:	[DATE]	*					certdate	certdate	certdate			TRUE		
-907	cert|certified	_.:	[DATE]	*							certdate	certdate				TRUE		
-912	ii|11|cause	*	[CLIN]	*							deathcause2					TRUE		
-916	type|factor|grade|class		ii								.	.				TRUE		
-920	b	)	[CLIN]	*							deathcause1b					TRUE		
-921	a	)	[CLIN]	*							deathcause1a					TRUE		
-922	exp|expiry|expires		[DATE]	*							ignore	ignore				FALSE		
-923	cod	*									deathcause					TRUE		
-935	due|caused|secondary		to|by	*								dueto				FALSE		
-938	following		*	*								dueto				FALSE		
-940	ic|lc	*	[CLIN]	*							deathcause1c					TRUE		
-941	ib|lb	*	[CLIN]	*							deathcause1b					TRUE		
-946	ia|la	*	[CLIN]	*							deathcause1a					TRUE		
-947	de		la								ignore	ignore				FALSE		
-948	resulting		from	*								dueto				FALSE		
-949	resulting		in	*							causing	causing				FALSE		
-951	comp|complicated	*	by	*							causing	causing				FALSE		
-955	passed		away		[DATE]	*					deathdate	deathdate	deathdate			TRUE		
-956	passed		away		[IGNO]		[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE		
-958	died|dead		[IGNO]	*	[DATE]	*					deathdate	deathdate	deathdate			TRUE		
-959	found		dead		[IGNO]	*	[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE		
-961	died|death	*	[DATE]	*							deathdate	deathdate				TRUE		
-962	found		dead		at	*	[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE		
-965	death		cert|certificate	*	*	*					_	_	deathcause			TRUE		
-968	cause		of		death	*	*	*			_	_	_	deathcause		TRUE		
-969	await		cause		of		death	*			anon	anon	anon	anon		FALSE		
-970	dr|anonymised	*									anon					FALSE		
-971	dr	.	*	*							anon	anon				FALSE		
-972	dr	*	*	.	*						anon	anon	anon			FALSE		
-973	dr	*	*	.	*	.	*				anon	anon	anon	anon		FALSE		
-974	dis|disch|discharge|discharged	_.:=-	[DATE]	*							dischdate	dischdate				FALSE		
-975	dis|disch|discharged	_.	*		[DATE]	*					dischdate	dischdate	dischdate			FALSE		
-976	adm|admit|admitted|readmit|readmitted	_.	*		[DATE]	*					admitdate	admitdate	admitdate			FALSE		
-977	adm|admit|admitted|admission|readmit|readmitted	_.:=-	[DATE]	*							admitdate	admitdate				FALSE		
-980	2	*		*							deathcause2	deathcause2				TRUE		
-982	1	*	[CLIN]	*							deathcause1					TRUE		
-985	2	*	[CLIN]	*							deathcause2					TRUE		
-988	[NUMB_1_4]		previous	*	[CLIN]	*					_	pmh	pmh			FALSE		
-989	type|grade|factor		2	*												TRUE		
-990	1	*	c	*							deathcause1c	deathcause1c				TRUE		
-991	1	*	b	*							deathcause1b	deathcause1b				TRUE		
-992	1	*	a	*							deathcause1a	deathcause1a				TRUE		
-994	1	*	a	*	[CLIN]	*	b	*			deathcause1a	deathcause1a	deathcause1a	deathcause1b		TRUE		
-995	1	*	a	*	t	_.	b	*			deathcause1a	deathcause1a	deathcause1a	deathcause1a		TRUE		
+397	son|daughter|grandfather|grandmother|relative|relation|family	*									 family					FALSE	
+398	rdw	_:=-	[NUMB_5_100]	*								LABS rdw				FALSE	
+399	red|blood		cell		distribution|dist		width	_:=-	[NUMB_5_100]	*					LABS rdw	FALSE	
+400	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE	
+401	[NUMB]		bpm|beats	*							LABS pulse					FALSE	
+402	p|pulse|af	_:=-	[NUMB_20_300]	*	reg|irreg|irrreg|irregular|regular|sinus|bpm|per|min|sr	*						LABS pulse				FALSE	
+405	[CLIN]		from|until|upto|at|when|while|[CLIN]		[ATTR age]		[ATTR age]	*			pmh	pmh	ageprev	ageprev		FALSE	
+406	pulse|hr|pulserate	_:=-	[NUMB_20_300]	*								LABS pulse				FALSE	
+407	age|aged	*	[DURA]	*							age	age				FALSE	
+409	[NUMB]		mg|mcg|g|gram|grams		/		l|dl|ml	*			.	.	.	.		FALSE	
+411	alb|albumin	_:=-	[NUMB_10_50]	*								LABS albumin				FALSE	
+415	full|complete		blood		count	_:=-	normal|abnormal	*						LABS fbc		FALSE	
+416	fbc|cbc	_:=-	normal|abnormal	*								LABS fbc				FALSE	
+417	ca|calcium	_:=-	[NUMB_1_4]	*								LABS calcium				FALSE	
+418	[CLIN]		over|for|during		past|last		[DURA]	*			_	ignore	ignore	duraprev		FALSE	
+422	[ATTR followup]		on|by		[DATE]	*					followup	followup	followup			FALSE	
+423	[ATTR followup]		in|within		[DURA]	*					followup	followup	followup			FALSE	
+424	[ATTR followup]		[DURA]|[DATE]	*							followup	followup				FALSE	
+425	hdl	_:=-	[NUMB]	*								LABS hdl				FALSE	
+426	international		normalised		ratio	_:=-	[NUMB_0.5_12]	*						LABS inr		FALSE	
+427	[ATTR followup]		[NUMB_1_12]		m	*					followup	DURA_mths followup	followup			FALSE	
+428	[ATTR followup]		[NUMB_1_12]		w	*					followup	DURA_wks_ followup	followup			FALSE	
+429	folate	_:=-	[NUMB]	*								LABS folate				FALSE	
+430	b		12	_:=-	[NUMB]	*							LABS cobalamin			FALSE	
+432	ferr|ferritin	_:=-	[NUMB]	*								LABS ferritin				FALSE	
+434	[ATTR followup]		[CLIN]		[DURA]|[DATE]	*					ignore	_	followup			FALSE	
+435	mcv	_:=-	[NUMB_60_120]	*								LABS mcv				FALSE	
+436	wbc|wcc|leucocyte|leucocytes	_:=-	[NUMB]	*								LABS wbc				FALSE	
+437	white|w	_.	blood|b	_.	cells|c	_:=-	[NUMB]	*						LABS wbc		FALSE	
+438	hb|hemoglobin|haemoglobin	_:=-	[NUMB_4_25]	*								LABS haemoglobin				FALSE	
+442	see|rv|rev|review|retest|reviewed|rpt|repeat|check|recall|recheck|clinic|opd|opa	*									followup					FALSE	
+443	follow|next		up|appt|appointment	*							followup	followup				FALSE	
+444	r	/	v	*							followup	followup				FALSE	
+445	tsh	_:=-	[NUMB]	*								LABS tsh				FALSE	
+446	urea	_:=-	[NUMB_2_30]	*								LABS urea				FALSE	
+449	cr|crea|creat|creatinine	_:=-	[NUMB_40_500]	*								LABS creatinine				FALSE	
+452	[CLIN]		since|for|last|past		[DURA]	*					_	duraprev	duraprev			FALSE	
+453	[DURA]		hx|hist|history		of		[CLIN]	*			duranext	ignore	ignore	_		FALSE	
+454	[ATTR pefr]		when		well|ok|good	*					anon	anon	anon			FALSE	
+455	[DURA]		hx|of|history		[CLIN]	*					duranext	ignore	_			FALSE	
+457	[DURA]		[CLIN]	*							duranext	_				FALSE	
+458	pred|predicted|usual|best|normal	.=:	[ATTR pefr]	*							anon	anon				FALSE	
+459	cert|certificate		[DURA]	*							sicknote	sicknote				FALSE	
+460	[CLIN]		[DURA]	*							_	duraprev				FALSE	
+484	hba		1		c	*	[NUMB]	*			ignore	ignore	ignore	LABS glyhb		FALSE	
+486	hba		1		c	*					ignore	ignore	ignore			FALSE	
+488	target|guideline|guidelines|guidance|ideal|ideally	*									normalrange					FALSE	
+498	dose|b|day		[NUMB]	*							anon	anon				FALSE	
+500	mi	_.	U	*							anon	anon				FALSE	
+505	[NUMB]	-	[NUMB]	)							normalrange	normalrange				FALSE	
+511	normal|reference|target|aim		range|for	*							anon	normalrange				FALSE	
+512	id|number|no	:=	[NUMB]	*							anon	anon				FALSE	
+540	[NUMB_60_230]		/		[NUMB_40_150]	*					LABS sysbp	ignore	LABS diabp			FALSE	
+541	[NUMB_60_230]	/	[NUMB_40_150]	*							LABS sysbp	LABS diabp				FALSE	
+543	pred|predicted|usual|best|normal		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE	
+545	[ATTR pefr]		usually|best|pred|predicted	*							anon	anon				FALSE	
+547	peak|pk		flow|fl	*	[NUMB]	*							LABS pefr			FALSE	
+548	pf|pef|pefr|pfr	_:=-	[NUMB_50_900]	*								LABS pefr				FALSE	
+549	last|history|[NUMB]		yr|yrs|year|years|mth|mths|month|months|of		[CLIN]	*					pmh	pmh	pmh			FALSE	
+550	had|several|freq|frequent|prev|previous|previously|recurrent		[CLIN]	*							pmh	pmh				FALSE	
+552	[CLIN]		[DURA]	*	[DURA]		ago	*				duraprev	duraprev	ignore		FALSE	
+553	for		nearly|almost|about		[DURA]	*					ignore	.	.			FALSE	
+556	t		3|4	*							ignore	anon				FALSE	
+557	t		3	_:=-	[NUMB]	*							LABS trithyroid			FALSE	
+558	t		4	_:=-	[NUMB]	*							LABS tetrathyroid			FALSE	
+559	[ATTR followup]		[CLIN]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*	followup	followup	followup	followup	followup	FALSE	
+560	[ATTR_followup]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*			followup	followup	followup	followup		FALSE	
+566	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE	
+569	[ATTR followup]		[CLIN]		[CLIN]		[DURA]|[DATE]	*			followup	_	_	followup		FALSE	
+572	esr	_:=-	[NUMB]	*								LABS esr				FALSE	
+573	inr	_:=-	[NUMB_0.5_12]	*								LABS inr				FALSE	
+576	ldl	_:=-	[NUMB]	*								LABS ldl				FALSE	
+577	tg|tri|trig|trigs|triglyceride|triglycerides	_:=-	[NUMB]	*								LABS triglycerides				FALSE	
+578	inr		[NUMB_0.7_12]	*								LABS inr				FALSE	
+579	[DURA]		ago|prev|previous|previously		causing|preceding		[CLIN]	*			duranext	ignore		ignore		FALSE	
+580	[DURA]		ago|prev|previous|previously		followed|leading|comp|complicated		by|to		[CLIN]	*	duranext	ignore	ignore	ignore	causing	FALSE	
+581	[DURA]		[DURA]		after|post		[CLIN]	*			duraprev	duraprev	ignore	_		FALSE	
+582	ch|chol|choles|cholesterol	_:=-	[NUMB]	*								LABS cholesterol				FALSE	
+592	[DURA]	*	[DURA]		old	*					age	age	age			FALSE	
+593	[NUMB]		mg|mcg|g|gram|grams	*							ignore	ignore				FALSE	
+595	pulse|pulserate|hr|heartrate		was|sinus|reg|regular|irreg|irregular	_:=-	[NUMB_20_300]	*							LABS pulse			FALSE	
+600	heart|pulse		rate		[NUMB_20_300]	*							LABS pulse			FALSE	
+603	if		*		then|refer|treat						possibility	possibility	possibility			FALSE	
+612	husband|wife|spouse|partner|husbands|wifes	*									family					FALSE	
+613	brother|sister|cousin|brothers|sisters|friend	*									family					FALSE	
+615	father|mother|uncle|aunt|fathers|mothers|mum|dad|grandmother|grandfather	*									family					FALSE	
+619	[ATTR family]		who		has|had		had|been|[CLIN]|[IGNO]		[CLIN]	*	family	family	family	family	family	FALSE	
+620	[ATTR family]		says|said|noticed|finds|thinks|concerned|worried|phoned|called|found	*							.	ignore				FALSE	
+621	given|shown|explained		to		[ATTR family]	*					.	.	.			FALSE	
+640	[ATTR family]		had|has|feels		*	*					family	family	family			FALSE	
+681	department|dept		of|for		*		*	*			anon	anon	anon	anon		FALSE	
+682	department|dept		of|for		*	*					anon	anon	anon			FALSE	
+683	consultant|clinician	:=	*		*	*					anon	anon	anon			FALSE	
+684	clinician	:=	[NUMB]	*							anon	anon				FALSE	
+685	location	:=	*		*		gms|centre|surgery|hospital|health|practice	*			anon	anon	anon	anon		FALSE	
+686	location	:=	*		gms|centre|surgery|hospital|health|practice	*					anon	anon				FALSE	
+687	location|clinician|consultant	:=	*	*							anon	anon				FALSE	
+688	location	:=	*		*	:					anon	anon	anon			FALSE	
+689	location	:=	*		*		*	:			anon	anon	anon	anon		FALSE	
+690	location	:=	*		*		*		*	:	anon	anon	anon	anon	anon	FALSE	
+691	urgency	:=	*								anon	anon				FALSE	
+706	[CLIN]		*		[DATE]	*					_	dateprev	dateprev			FALSE	
+707	[CLIN]		[DATE]	*							_	dateprev				FALSE	
+708	[DATE]		[CLIN]	*							datenext	_				FALSE	
+715	didn|doesn	'	t		find|seem|feel|have|experience		*	*			negative	negative	negative	negative		FALSE	
+717	denies|denied|absent		[CLIN]	*							negative	negative				FALSE	
+718	without		mention		of	*					negative	negative	negative			FALSE	
+719	[CLIN]	:_	none|neg|negative|excluded|absent	*							negative	negative				FALSE	
+720	[CLIN]		[CLIN]	:_	none|neg|negative|excluded|absent	*					negative	negative	negative			FALSE	
+721	no|not|absent|without|didnt|unlikely|never|neg|negative	*									negative					FALSE	
+723	lack|free|rather		of|than|from	*							negative	negative				FALSE	
+724	[CLIN]		test|result|[CLIN]		neg|negative|excluded	*					negative	negative	negative			FALSE	
+725	no|not		helped|helping|improvement|better|worse|change|different|changed	*							possibility	possibility				FALSE	
+726	[CLIN]		[CLIN]		test|result|[CLIN]		neg|negative|excluded	*			negative	negative	negative	negative		FALSE	
+727	can|may|might		cause|lead|make	*							possibility	possibility				FALSE	
+728	not		over|accepting|accepted	*							.	.				FALSE	
+732	no|not|never		past|ph|prev|previous|pmh|had|previously	*							negpmh	negpmh				FALSE	
+735	no		history|hx|pmh		of		[CLIN]	*			negpmh	ignore	ignore	negpmh		FALSE	
+736	[CLIN]		query	*							query	query				FALSE	
+737	[ATTR negpmh]		[CLIN]	*							negpmh	negpmh				FALSE	
+738	[CLIN]		query		[CLIN]	*					.	query	query			FALSE	
+739	may|could		be	*							query	query				FALSE	
+740	rule|thinks|think		out|he|she|has	*							query	query				FALSE	
+746	pos|poss|prob	._	[CLIN]	*							query	query				FALSE	
+747	probable|probably|maybe|possibly|query|suggested|exclude|suspected|suspicious	*									query					FALSE	
+768	[CLIN]		in		family	*					family	family	family			FALSE	
+769	no		[CLIN]		in		family	*			negfamily	negfamily	negfamily	negfamily		FALSE	
+770	f|fam|family		h|hx|hist|history		[CLIN]	*					family	family	family			FALSE	
+771	no		f|fam|family	_.	h|hx|hist|history	_.:	[CLIN]	*			negfamily	negfamily	negfamily	negfamily		FALSE	
+772	f|fam|family		h|hx|hist|history		of|[CLIN]		[CLIN]	*			family	family	family	family		FALSE	
+773	no		f|fam|family		h|hx|hist|history		of|[CLIN]		[CLIN]	*	negfamily	negfamily	negfamily	negfamily	negfamily	FALSE	
+774	fh	*	[CLIN]	*							family	family				FALSE	
+775	no		fh		[CLIN]	*					negfamily	negfamily	negfamily			FALSE	
+869	[CLIN]		[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis	*					possibility	possibility	possibility			FALSE	
+870	[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse	*							possibility	possibility				FALSE	
+871	fear|risk		of		[CLIN]		[CLIN]	*			possibility	possibility	possibility	possibility		FALSE	
+872	fear|risk		of		[CLIN]	*					possibility	possibility	possibility			FALSE	
+875	[DURA_wks_]		[DURA_wks_]		gest|gestation|preg|pregnant	*					LABS gest	LABS gest				FALSE	
+880	lmp	_:-	[DATE_full]|[DURA]	*							lmp	lmp				FALSE	
+882	edd	_:-	[DATE_full]	*							edd	edd				FALSE	
+885	last		period	_.:-	[DURA]|[DATE]	*					lmp	lmp	lmp			FALSE	
+886	e	_.	d	_.	d	_.:-	[DATE_full]	*			edd	edd	edd	edd		FALSE	
+887	l	_.	m	_.	p	_.:-	[DATE_full]	*			lmp	lmp	lmp	lmp		FALSE	
+906	cert|certified	_.	on|dead|deceased|at	_:	[DATE]	*					certdate	certdate	certdate			TRUE	
+907	cert|certified	_.:	[DATE]	*							certdate	certdate				TRUE	
+912	ii|11|cause	*	[CLIN]	*							deathcause2					TRUE	
+916	type|factor|grade|class		ii								.	.				TRUE	
+920	b	)	[CLIN]	*							deathcause1b					TRUE	
+921	a	)	[CLIN]	*							deathcause1a					TRUE	
+922	exp|expiry|expires		[DATE]	*							ignore	ignore				FALSE	
+923	cod	*									deathcause					TRUE	
+935	due|caused|secondary		to|by	*								dueto				FALSE	
+938	following		*	*								dueto				FALSE	
+940	ic|lc	*	[CLIN]	*							deathcause1c					TRUE	
+941	ib|lb	*	[CLIN]	*							deathcause1b					TRUE	
+946	ia|la	*	[CLIN]	*							deathcause1a					TRUE	
+947	de		la								ignore	ignore				FALSE	
+948	resulting		from	*								dueto				FALSE	
+949	resulting		in	*							causing	causing				FALSE	
+951	comp|complicated	*	by	*							causing	causing				FALSE	
+955	passed		away		[DATE]	*					deathdate	deathdate	deathdate			TRUE	
+956	passed		away		[IGNO]		[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE	
+958	died|dead		[IGNO]	*	[DATE]	*					deathdate	deathdate	deathdate			TRUE	
+959	found		dead		[IGNO]	*	[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE	
+961	died|death	*	[DATE]	*							deathdate	deathdate				TRUE	
+962	found		dead		at	*	[DATE]	*			deathdate	deathdate	deathdate	deathdate		TRUE	
+965	death		cert|certificate	*	*	*					_	_	deathcause			TRUE	
+968	cause		of		death	*	*	*			_	_	_	deathcause		TRUE	
+969	await		cause		of		death	*			anon	anon	anon	anon		FALSE	
+970	dr|anonymised	*									anon					FALSE	
+971	dr	.	*	*							anon	anon				FALSE	
+972	dr	*	*	.	*						anon	anon	anon			FALSE	
+973	dr	*	*	.	*	.	*				anon	anon	anon	anon		FALSE	
+974	dis|disch|discharge|discharged	_.:=-	[DATE]	*							dischdate	dischdate				FALSE	
+975	dis|disch|discharged	_.	*		[DATE]	*					dischdate	dischdate	dischdate			FALSE	
+976	adm|admit|admitted|readmit|readmitted	_.	*		[DATE]	*					admitdate	admitdate	admitdate			FALSE	
+977	adm|admit|admitted|admission|readmit|readmitted	_.:=-	[DATE]	*							admitdate	admitdate				FALSE	
+980	2	*		*							deathcause2	deathcause2				TRUE	
+982	1	*	[CLIN]	*							deathcause1					TRUE	
+985	2	*	[CLIN]	*							deathcause2					TRUE	
+988	[NUMB_1_4]		previous	*	[CLIN]	*					_	pmh	pmh			FALSE	
+989	type|grade|factor		2	*												TRUE	
+990	1	*	c	*							deathcause1c	deathcause1c				TRUE	
+991	1	*	b	*							deathcause1b	deathcause1b				TRUE	
+992	1	*	a	*							deathcause1a	deathcause1a				TRUE	
+994	1	*	a	*	[CLIN]	*	b	*			deathcause1a	deathcause1a	deathcause1a	deathcause1b		TRUE	
+995	1	*	a	*	t	_.	b	*			deathcause1a	deathcause1a	deathcause1a	deathcause1a		TRUE	
