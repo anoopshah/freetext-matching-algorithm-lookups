@@ -59,6 +59,7 @@ a r f	acute renal failure	4
 a s d	atrial septal defect	5	
 a v	atrio ventricular	4	
 aaa	abdominal aortic aneurysm	4	
+aaa aneurysm abdominal aorta  3 
 aau	hospital	1	
 abd	abdomen	2	
 abd	abdominal	5	
@@ -80,7 +81,7 @@ abnormality	abnormal	5
 absent	lack of	3	
 absent	no	4	
 absent	not	4	
-ac m I	acute myocardial infarction	3	
+ac m i	acute myocardial infarction	3	
 acc	accident	4	
 accid	accident	4	
 accident	acc	4	
@@ -778,6 +779,7 @@ general medicine	medical clinic	3
 general practitioner	g p	5	
 general practitioner	gp	5	
 general surgery	surgical clinic	3	
+gestational diabetes  gestational diabetes mellitus 4 
 gi	gastrointestinal	3	
 given mmr	given mmr immunisation	3	
 glucose	sugar	3	
@@ -1284,6 +1286,7 @@ non insulin dependent diabetes mellitus	niddm	4
 non st elevation mi	acute non st segment elevation myocardial infarction	4	
 non stemi	non st elevation myocardial infarction	3	
 non union	nonunion	5	
+nonproliferative  non proliferative 5 
 nonstemi	acute non st segment elevation myocardial infarction	3	
 nonunion	non union	5	
 normal	n a d	5	
@@ -1309,6 +1312,7 @@ not yet diagnosed	not diagnosed	3
 not yet diagnosed	undiagnosed	3	
 notif	notification	5	
 notification	notif	5	
+npdr  non proliferative diabetic retinopathy  4 
 nstemi	acute non st segment elevation myocardial infarction	3	
 o / e nad	examination normal	3	
 o / e normal	examination normal	3	
