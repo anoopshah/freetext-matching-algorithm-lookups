@@ -106,8 +106,8 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 715	didn|doesn	'	t		find|seem|feel|have|experience		*	*			negative	negative	negative	negative		FALSE	
 717	denies|denied|absent		[CLIN]	*							negative	negative				FALSE	
 718	without		mention		of	*					negative	negative	negative			FALSE	
-719	[CLIN]	:_	none|neg|negative|excluded|absent	*							negative	negative				FALSE	
-720	[CLIN]		[CLIN]	:_	none|neg|negative|excluded|absent	*					negative	negative	negative			FALSE	
+719	[CLIN]	:_	no|none|neg|negative|excluded|absent	*							negative	negative				FALSE	
+720	[CLIN]		[CLIN]	:_	no|none|neg|negative|excluded|absent	*					negative	negative	negative			FALSE	
 721	no|not|absent|without|didnt|unlikely|never|neg|negative	*									negative					FALSE	
 723	lack|free|rather		of|than|from	*							negative	negative				FALSE	
 724	[CLIN]		test|result|[CLIN]		neg|negative|excluded	*					negative	negative	negative			FALSE	
