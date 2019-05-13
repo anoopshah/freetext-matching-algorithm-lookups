@@ -866,6 +866,7 @@ hospl	hospital	2
 hour	hr	4	
 hr	hour	4	
 ht	hypertension	2	
+htn hypertension  3 
 human immunodeficiency virus	human immunodeficiency virus infection	3	
 human immunodeficiency virus infection	hiv infection	5	
 humeral	humerus	5	
