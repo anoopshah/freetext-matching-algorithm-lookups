@@ -124,6 +124,8 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 740	rule|thinks|think		out|he|she|has	*							query	query				FALSE	
 746	pos|poss|prob	._	[CLIN]	*							query	query				FALSE	
 747	probable|probably|maybe|possibly|query|suggested|exclude|suspected|suspicious|likely	*									query					FALSE	
+748	[ATTR query]		[CLIN]|[ATTR pmh]								query	query				FALSE	
+749	[ATTR query]		[CLIN]|[ATTR pmh]		[CLIN]						query	query	query			FALSE	
 768	[CLIN]		in		family	*					family	family	family			FALSE	
 769	no		[CLIN]		in		family	*			negfamily	negfamily	negfamily	negfamily		FALSE	
 770	f|fam|family		h|hx|hist|history		[CLIN]	*					family	family	family			FALSE	
