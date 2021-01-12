@@ -446,6 +446,7 @@ cocaine	cocaine misuse	3
 cocaine	cocaine use	3	
 cocaine misuse	cocaine	3	
 cocaine use	cocaine	3	
+coivd	covid 19	2	COVID-19
 coll	collision	3	
 collpse	collapse	2	
 colon	bowel	3	
