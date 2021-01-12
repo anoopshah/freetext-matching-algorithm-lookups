@@ -10734,3 +10734,47 @@ medcode	stdterm	attrstring	linkto	comment
 610733	 good left ventricular systolic function 	TTTTT	10325	
 610734	 good right ventricular systolic function 	TTTTT	57943	
 610735	 lower respiratory tract infection 	TTTT	3358	
+620001	 coronavirus disease 19 	TTT	500010	
+620002	 disease caused by coronavirus disease 19 	TIITTT	500010	
+620003	 disease caused by sars cov 2 	TIITTT	500010	
+620004	 novel coronavirus 	TT	500010	
+620005	 ncov 2019 	TT	500010	
+620010	 clinical diagnosis covid 19 	TTTT	500011	
+620011	 laboratory confirmed covid 19 	TTTT	500012	
+620012	 test confirmed covid 19 	TTTT	500012	
+620013	 covid 19 pneumonia 	TTT	500013	
+620014	 asymptomatic covid 19 	TTT	500014	
+620015	 acute covid 19 	TTTT	500015	
+620016	 acute bronchitis due to covid 19 	TTTT	500016	
+620017	 covid 19 myocarditis 	TIITT	500017	
+620018	 covid 19 lymphopenia 	TIITT	500018	
+620019	 covid 19 lymphopaenia 	TIITT	500018	
+620020	 covid 19 lymphocytopenia 	TIITT	500018	
+620021	 covid 19 otitis media 	TTIITT	500019	
+620022	 ongoing symptomatic covid 19 	TTTT	500020	
+620023	 covid 19 encephalopathy 	TIITT	500021	
+620024	 covid 19 conjunctivitis 	TIITT	500022	
+620025	 covid 19 cardiomyopathy 	TIITT	500023	
+620026	 covid 19 myocarditis 	TIITT	500024	
+620027	 covid 19 lower respiratory infection 	TTTTT	500025	
+620028	 covid 19 lrti 	TTTTT	500025	
+620029	 sepsis due to covid 19 	TIITIITT	500026	
+620030	 covid 19 sepsis 	TIITIITT	500026	
+620031	 covid 19 acute respiratory distress syndrome 	TTTTTT	500027	
+620032	 covid 19 rhabdomyolysis 	TIITIITT	500028	
+620033	 rhabdomyolysis due to covid 19 	TIITIITT	500028	
+620034	 covid 19 acute kidney injury 	TTTIITIITT	500029	
+620035	 acute kidney injury due to covid 19 	TTTIITIITT	500029	
+620036	 covid 19 type 1 respiratory failure 	TTTTIITIITT	500030	
+620037	 type 1 respiratory failure due to covid 19 	TTTTIITIITT	500030	
+620038	 long covid 	TTTT	500031	
+620039	 severe acute respiratory syndrome coronavirus 2 detected 	TTTTTTT	500033	
+620040	 sars cov 2 test positive 	TTTTT	500033	
+620041	 covid 19 test positive 	TTTT	500033	
+620042	 covid 19 pcr test positive 	TTTTT	500033	
+620043	 covid 19 pcr positive 	TTTT	500033	
+620044	 covid 19 detected 	TTT	500033	
+620045	 covid test positive 	TTT	500033	
+620046	 covid swab positive 	TTT	500033	
+620047	 covid 19 pcr positive 	TTT	500033	
+620048	 covid 19 rna detected 	TTT	500033	

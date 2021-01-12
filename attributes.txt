@@ -134,8 +134,8 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 773	no		f|fam|family		h|hx|hist|history		of|[CLIN]		[CLIN]	*	negfamily	negfamily	negfamily	negfamily	negfamily	FALSE	
 774	fh	*	[CLIN]	*							family	family				FALSE	
 775	no		fh		[CLIN]	*					negfamily	negfamily	negfamily			FALSE	
-869	[CLIN]		[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse|formcheckbox	*					possibility	possibility	possibility			FALSE	
-870	[CLIN]		risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse|formcheckbox	*							possibility	possibility				FALSE	
+869	[CLIN]		[CLIN]		epidemic|pandemic|outbreak|risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse|formcheckbox	*					possibility	possibility	possibility			FALSE	
+870	[CLIN]		epidemic|pandemic|outbreak|risk|screening|clinic|service|unit|imm|vacc|immunisation|vaccination|prophylaxis|study|centre|nurse|formcheckbox	*							possibility	possibility				FALSE	
 871	fear|risk		of		[CLIN]		[CLIN]	*			possibility	possibility	possibility	possibility		FALSE	
 872	fear|risk		of		[CLIN]	*					possibility	possibility	possibility			FALSE	
 875	[DURA_wks_]		[DURA_wks_]		gest|gestation|preg|pregnant	*					LABS gest	LABS gest				FALSE	

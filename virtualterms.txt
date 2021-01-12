@@ -9,4 +9,27 @@ medcode	term	stdterm	attrstring	comment
 500007	Moderately impaired left ventricular function	 moderately impaired left ventricular function 	TTTTT	
 500008	Severely impaired left ventricular function	 severely impaired left ventricular function 	TTTTT	
 500009	Circumflex coronary artery disease	 circumflex coronary artery disease 	TTTT	
-
+500010	COVID-19	 covid 19 	TT	
+500011	COVID-19 confirmed clinically	 covid 19 confirmed clinically 	TTTT	
+500012	COVID-19 confirmed by laboratory test	 covid 19 confirmed by laboratory test 	TTTITT	
+500013	COVID-19 pneumonia	 covid 19 pneumonia 	TTT	
+500014	Asymptomatic COVID-19	 asymptomatic covid 19 	TTT	
+500015	Acute COVID-19 infection	 acute covid 19 infection 	TTTT	
+500016	COVID-19 acute bronchitis	 covid 19 acute bronchitis 	TTTT	
+500017	Myocarditis due to COVID-19	 myocarditis due to covid 19 	TIITT	
+500018	Lymphopenia due to COVID-19	 lymphopenia due to covid 19 	TIITT	
+500019	Otitis media due to COVID-19	 otitis media due to covid 19 	TTIITT	
+500020	Ongoing symptomatic COVID-19	 ongoing symptomatic covid 19 	TTTT	
+500021	Encephalopathy due to COVID-19	 encephalopathy due to covid 19 	TIITT	
+500022	Conjunctivitis due to COVID-19	 conjunctivitis due to covid 19 	TIITT	
+500023	Cardiomyopathy due to COVID-19	 cardiomyopathy due to covid 19 	TIITT	
+500024	Thrombocytopenia due to COVID-19	 myocarditis due to covid 19 	TIITT	
+500025	COVID-19 lower respiratory infection	 covid 19 lower respiratory infection 	TTTTT	
+500026	Sepsis due to disease caused by COVID-19	 sepsis due to disease caused by covid 19 	TIITIITT	
+500027	COVID-19 acute respiratory distress syndrome	 covid 19 acute respiratory distress syndrome 	TTTTTT	
+500028	Rhabdomyolysis due to disease caused by COVID-19	 rhabdomyolysis due to disease caused by covid 19 	TIITIITT	
+500029	Acute kidney injury due to disease caused by COVID-19	 acute kidney injury due to disease caused by covid 19 	TTTIITIITT	
+500030	Acute hypoxemic respiratory failure due to disease caused by COVID-19	 acute hypoxemic respiratory failure due to disease caused by covid 19 	TTTTIITIITT	
+500031	Post-COVID-19 syndrome	 post covid 19 syndrome 	TTTT	
+500032	COVID-19 vaccination	 covid 19 vaccination 	TTT	
+500033	Severe acute respiratory syndrome coronavirus 2 detected	 severe acute respiratory syndrome coronavirus 2 detected 	TTTTTTT	

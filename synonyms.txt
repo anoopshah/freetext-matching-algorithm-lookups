@@ -101,6 +101,8 @@ acute myocardial infarction	acmi	4
 acute non st segment elevation myocardial infarction	non st elevation mi	4	
 acute renal failure	a r f	4	
 acute renal failure	arf	4	
+acute respiratory distress syndrome	a r d s	5	
+acute respiratory distress syndrome	ards	5	
 acute st segment elevation myocardial infarction	acute stemi	5	
 acute st segment elevation myocardial infarction	st elevation mi	4	
 acute st segment elevation myocardial infarction	stemi	4	
@@ -172,6 +174,7 @@ aortic dissection	dissecting aortic aneurysm	5
 apnoeic attack	neonatal apnoeic attack	2	
 appointment	appt	4	
 appt	appointment	4	
+ards	acute respiratory distress syndrome	5	
 ards	adult respiratory distress syndrome	5	
 arf	acute renal failure	4	
 arm	upper limb	1	
@@ -489,6 +492,13 @@ coronary vessel disease	vessel coronary artery disease	5
 coronary vessels	coronaries	5	
 coronary vessels	coronary	3	
 coronary vessels	coronary arteries	5	
+coronavirus disease 19	covid 19	5	COVID-19
+cov	covid 19	2	COVID-19
+cov 19	covid 19	4	COVID-19
+covd	covid 19	2	COVID-19
+covi 19	covid 19	4	COVID-19
+covid	covid 19	3	COVID-19
+covid 19	disease caused by covid 19	4	COVID-19
 cpn	community psychiatric nurse	5	
 crabs	pubic lice	3	
 crackles	crepitations	4	
@@ -584,6 +594,8 @@ disease	dis	4
 disease	diseases	5	
 disease	lesion	4	
 disease	stenosis	3	
+disease caused by covid 19	covid 19	4	COVID-19
+disease due to covid 19	covid 19	4	COVID-19
 diseaseand	disease	1	
 diseaseand	disease and	2	
 diseased	lesion	4	
@@ -879,6 +891,12 @@ hypertensio	hypertension	3
 hyperthyroidism	thyrotoxicosis	5	
 hypotensive	hypotension	3	
 hypothyroidism	thyroid deficiency	5	
+hypoxaemic	hypoxemic	5	
+hypoxaemic	hypoxic	5	
+hypoxemic	hypoxaemic	5	
+hypoxemic	hypoxic	5	
+hypoxic	hypoxaemic	5	
+hypoxic	hypoxemic	5	
 i / p	inpatient	3	
 i d d m	insulin dependent diabetes mellitus	4	
 i h d	ischaemic heart disease	4	
@@ -1255,6 +1273,7 @@ nausea	nausea symptom	4
 nausea	nausea symptoms	4	
 nausea symptom	nausea	4	
 nausea symptoms	nausea	4	
+ncov 2019	covid 19	3	COVID-19
 nec	not elsewhere classified	4	
 neck	cervical	2	
 neck	cervix uteri	-100	
@@ -1313,6 +1332,7 @@ not yet diagnosed	not diagnosed	3
 not yet diagnosed	undiagnosed	3	
 notif	notification	5	
 notification	notif	5	
+novel coronavirus	covid 19	3	COVID-19
 npdr	non proliferative diabetic retinopathy	4	
 nstemi	acute non st segment elevation myocardial infarction	3	
 o / e nad	examination normal	3	
@@ -1644,6 +1664,7 @@ s t	st	5
 s v c o	superior vena cava obstruction	5	
 sad	seasonal affective disorder	2	
 sah	subarachnoid haemorrhage	3	
+sars cov 2	covid 19	3	COVID-19
 sbe	subacute bacterial endocarditis	3	
 scap	scapula	3	
 scc	squamous cell carcinoma	4	
@@ -1682,6 +1703,7 @@ sev	severely	4
 seventh cervical	c 7	5	
 severe	sev	4	
 severe	severely	5	
+severe acute respiratory syndrome coronavirus 2	covid 19	3	COVID-19
 severe 3 vessel	3 vessel	2	
 severe 3 vessel	three vessel	2	
 severe combined immunodeficiency	scid	4	
