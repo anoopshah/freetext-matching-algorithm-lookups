@@ -141,6 +141,8 @@ against malaria	malaria prophylaxis	2
 aids	acquired immune deficiency syndrome	5	
 aircr	aircraft	4	
 aircraft	aircr	4	
+aki	acute kidney injury	3	
+aki	acute renal impairment	3	
 alcoholic liver disease	alcoholic liver damage	2	
 allergic	adverse reaction to	1	
 allergic	allergy	5	
