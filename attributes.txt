@@ -1,8 +1,6 @@
 order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
-397	son|daughter|grandfather|grandmother|relative|relation|family	*									 family					FALSE	
 398	rdw	_:=-	[NUMB_5_100]	*								LABS rdw				FALSE	
 399	red|blood		cell		distribution|dist		width	_:=-	[NUMB_5_100]	*					LABS rdw	FALSE	
-400	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE	
 401	[NUMB]		bpm|beats	*							LABS pulse					FALSE	
 402	p|pulse|af	_:=-	[NUMB_20_300]	*	reg|irreg|irrreg|irregular|regular|sinus|bpm|per|min|sr	*						LABS pulse				FALSE	
 405	[CLIN]		from|until|upto|at|when|while|[CLIN]		[ATTR age]		[ATTR age]	*			pmh	pmh	ageprev	ageprev		FALSE	
@@ -14,24 +12,15 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 416	fbc|cbc	_:=-	normal|abnormal	*								LABS fbc				FALSE	
 417	ca|calcium	_:=-	[NUMB_1_4]	*								LABS calcium				FALSE	
 418	[CLIN]		over|for|during		past|last		[DURA]	*			_	ignore	ignore	duraprev		FALSE	
-422	[ATTR followup]		on|by		[DATE]	*					followup	followup	followup			FALSE	
-423	[ATTR followup]		in|within		[DURA]	*					followup	followup	followup			FALSE	
-424	[ATTR followup]		[DURA]|[DATE]	*							followup	followup				FALSE	
 425	hdl	_:=-	[NUMB]	*								LABS hdl				FALSE	
 426	international		normalised		ratio	_:=-	[NUMB_0.5_12]	*						LABS inr		FALSE	
-427	[ATTR followup]		[NUMB_1_12]		m	*					followup	DURA_mths followup	followup			FALSE	
-428	[ATTR followup]		[NUMB_1_12]		w	*					followup	DURA_wks_ followup	followup			FALSE	
 429	folate	_:=-	[NUMB]	*								LABS folate				FALSE	
 430	b		12	_:=-	[NUMB]	*							LABS cobalamin			FALSE	
 432	ferr|ferritin	_:=-	[NUMB]	*								LABS ferritin				FALSE	
-434	[ATTR followup]		[CLIN]		[DURA]|[DATE]	*					ignore	_	followup			FALSE	
 435	mcv	_:=-	[NUMB_60_120]	*								LABS mcv				FALSE	
 436	wbc|wcc|leucocyte|leucocytes	_:=-	[NUMB]	*								LABS wbc				FALSE	
 437	white|w	_.	blood|b	_.	cells|c	_:=-	[NUMB]	*						LABS wbc		FALSE	
 438	hb|hemoglobin|haemoglobin	_:=-	[NUMB_4_25]	*								LABS haemoglobin				FALSE	
-442	see|rv|rev|review|retest|reviewed|rpt|repeat|check|recall|recheck|clinic|opd|opa	*									followup					FALSE	
-443	follow|next		up|appt|appointment	*							followup	followup				FALSE	
-444	r	/	v	*							followup	followup				FALSE	
 445	tsh	_:=-	[NUMB]	*								LABS tsh				FALSE	
 446	urea	_:=-	[NUMB_2_30]	*								LABS urea				FALSE	
 449	cr|crea|creat|creatinine	_:=-	[NUMB_40_500]	*								LABS creatinine				FALSE	
@@ -40,7 +29,7 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 454	[ATTR pefr]		when		well|ok|good	*					anon	anon	anon			FALSE	
 455	[DURA]		hx|of|history		[CLIN]	*					duranext	ignore	_			FALSE	
 457	[DURA]		[CLIN]	*							duranext	_				FALSE	
-458	pred|predicted|usual|best|normal	.=:	[ATTR pefr]	*							anon	anon				FALSE	
+458	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE	
 459	cert|certificate		[DURA]	*							sicknote	sicknote				FALSE	
 460	[CLIN]		[DURA]	*							_	duraprev				FALSE	
 484	hba		1		c	*	[NUMB]	*			ignore	ignore	ignore	LABS glyhb		FALSE	
@@ -53,21 +42,31 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 512	id|number|no	:=	[NUMB]	*							anon	anon				FALSE	
 540	[NUMB_60_230]		/		[NUMB_40_150]	*					LABS sysbp	ignore	LABS diabp			FALSE	
 541	[NUMB_60_230]	/	[NUMB_40_150]	*							LABS sysbp	LABS diabp				FALSE	
-543	pred|predicted|usual|best|normal		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE	
-545	[ATTR pefr]		usually|best|pred|predicted	*							anon	anon				FALSE	
-547	peak|pk		flow|fl	*	[NUMB]	*							LABS pefr			FALSE	
-548	pf|pef|pefr|pfr	_:=-	[NUMB_50_900]	*								LABS pefr				FALSE	
+542	peak|pk		flow|fl	*	[NUMB]	*							LABS pefr			FALSE	
+543	pf|pef|pefr|pfr	_:=-	[NUMB_50_900]	*								LABS pefr				FALSE	
+544	pred|predicted|usual|best|normal	.=:	[ATTR pefr]	*							anon	anon				FALSE	
+545	pred|predicted|usual|best|normal		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE	
+546	[ATTR pefr]		usually|best|pred|predicted	*							anon	anon				FALSE	
 549	last|history|[NUMB]		yr|yrs|year|years|mth|mths|month|months|of		[CLIN]	*					pmh	pmh	pmh			FALSE	
 550	had|several|freq|frequent|prev|previous|previously|recurrent		[CLIN]	*							pmh	pmh				FALSE	
 552	[CLIN]		[DURA]	*	[DURA]		ago	*				duraprev	duraprev	ignore		FALSE	
 553	for		nearly|almost|about		[DURA]	*					ignore	.	.			FALSE	
-556	t		3|4	*							ignore	anon				FALSE	
-557	t		3	_:=-	[NUMB]	*							LABS trithyroid			FALSE	
-558	t		4	_:=-	[NUMB]	*							LABS tetrathyroid			FALSE	
-559	[ATTR followup]		[CLIN]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*	followup	followup	followup	followup	followup	FALSE	
-560	[ATTR_followup]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*			followup	followup	followup	followup		FALSE	
-566	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE	
-569	[ATTR followup]		[CLIN]		[CLIN]		[DURA]|[DATE]	*			followup	_	_	followup		FALSE	
+554	t		3|4	*							ignore	anon				FALSE	
+555	t		3	_:=-	[NUMB]	*							LABS trithyroid			FALSE	
+556	t		4	_:=-	[NUMB]	*							LABS tetrathyroid			FALSE	
+557	see|rv|rev|review|retest|reviewed|rpt|repeat|check|recall|recheck|clinic|opd|opa	*									followup					FALSE	
+558	follow|next		up|appt|appointment	*							followup	followup				FALSE	
+559	r	/	v	*							followup	followup				FALSE	
+560	[ATTR followup]		on|by		[DATE]	*					followup	followup	followup			FALSE	
+561	[ATTR followup]		in|within		[DURA]	*					followup	followup	followup			FALSE	
+562	[ATTR followup]		[DURA]|[DATE]	*							followup	followup				FALSE	
+563	[ATTR followup]		[NUMB_1_12]		m	*					followup	DURA_mths followup	followup			FALSE	
+564	[ATTR followup]		[NUMB_1_12]		w	*					followup	DURA_wks_ followup	followup			FALSE	
+565	[ATTR followup]		[CLIN]		[DURA]|[DATE]	*					ignore	_	followup			FALSE	
+566	[ATTR followup]		[CLIN]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*	followup	followup	followup	followup	followup	FALSE	
+567	[ATTR_followup]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*			followup	followup	followup	followup		FALSE	
+568	[ATTR followup]		[CLIN]		[CLIN]		[DURA]|[DATE]	*			followup	_	_	followup		FALSE	
+569	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE	
 572	esr	_:=-	[NUMB]	*								LABS esr				FALSE	
 573	inr	_:=-	[NUMB_0.5_12]	*								LABS inr				FALSE	
 576	ldl	_:=-	[NUMB]	*								LABS ldl				FALSE	
@@ -82,6 +81,7 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 595	pulse|pulserate|hr|heartrate		was|sinus|reg|regular|irreg|irregular	_:=-	[NUMB_20_300]	*							LABS pulse			FALSE	
 600	heart|pulse		rate		[NUMB_20_300]	*							LABS pulse			FALSE	
 603	if		*		then|refer|treat						possibility	possibility	possibility			FALSE	
+611	son|daughter|grandfather|grandmother|relative|relation|family	*									family					FALSE	
 612	husband|wife|spouse|partner|husbands|wifes	*									family					FALSE	
 613	brother|sister|cousin|brothers|sisters|friend	*									family					FALSE	
 615	father|mother|uncle|aunt|fathers|mothers|mum|dad|grandmother|grandfather	*									family					FALSE	
