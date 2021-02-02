@@ -3,15 +3,14 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 399	red|blood		cell		distribution|dist		width	_:=-	[NUMB_5_100]	*					LABS rdw	FALSE	
 401	[NUMB]		bpm|beats	*							LABS pulse					FALSE	
 402	p|pulse|af	_:=-	[NUMB_20_300]	*	reg|irreg|irrreg|irregular|regular|sinus|bpm|per|min|sr	*						LABS pulse				FALSE	
-405	[CLIN]		from|until|upto|at|when|while|[CLIN]		[ATTR age]		[ATTR age]	*			pmh	pmh	ageprev	ageprev		FALSE	
-406	pulse|hr|pulserate	_:=-	[NUMB_20_300]	*								LABS pulse				FALSE	
-407	age|aged	*	[DURA]	*							age	age				FALSE	
+403	pulse|hr|pulserate	_:=-	[NUMB_20_300]	*								LABS pulse				FALSE	
+404	pulse|pulserate|hr|heartrate		was|sinus|reg|regular|irreg|irregular	_:=-	[NUMB_20_300]	*							LABS pulse			FALSE	
+405	heart|pulse		rate		[NUMB_20_300]	*							LABS pulse			FALSE	
 409	[NUMB]		mg|mcg|g|gram|grams		/		l|dl|ml	*			.	.	.	.		FALSE	
 411	alb|albumin	_:=-	[NUMB_10_50]	*								LABS albumin				FALSE	
 415	full|complete		blood		count	_:=-	normal|abnormal	*						LABS fbc		FALSE	
 416	fbc|cbc	_:=-	normal|abnormal	*								LABS fbc				FALSE	
 417	ca|calcium	_:=-	[NUMB_1_4]	*								LABS calcium				FALSE	
-418	[CLIN]		over|for|during		past|last		[DURA]	*			_	ignore	ignore	duraprev		FALSE	
 425	hdl	_:=-	[NUMB]	*								LABS hdl				FALSE	
 426	international		normalised		ratio	_:=-	[NUMB_0.5_12]	*						LABS inr		FALSE	
 429	folate	_:=-	[NUMB]	*								LABS folate				FALSE	
@@ -23,15 +22,18 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 438	hb|hemoglobin|haemoglobin	_:=-	[NUMB_4_25]	*								LABS haemoglobin				FALSE	
 445	tsh	_:=-	[NUMB]	*								LABS tsh				FALSE	
 446	urea	_:=-	[NUMB_2_30]	*								LABS urea				FALSE	
-449	cr|crea|creat|creatinine	_:=-	[NUMB_40_500]	*								LABS creatinine				FALSE	
-452	[CLIN]		since|for|last|past		[DURA]	*					_	duraprev	duraprev			FALSE	
-453	[DURA]		hx|hist|history		of		[CLIN]	*			duranext	ignore	ignore	_		FALSE	
-454	[ATTR pefr]		when		well|ok|good	*					anon	anon	anon			FALSE	
-455	[DURA]		hx|of|history		[CLIN]	*					duranext	ignore	_			FALSE	
-457	[DURA]		[CLIN]	*							duranext	_				FALSE	
-458	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE	
-459	cert|certificate		[DURA]	*							sicknote	sicknote				FALSE	
-460	[CLIN]		[DURA]	*							_	duraprev				FALSE	
+447	cr|crea|creat|creatinine	_:=-	[NUMB_40_500]	*								LABS creatinine				FALSE	
+448	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE	
+449	esr	_:=-	[NUMB]	*								LABS esr				FALSE	
+450	inr	_:=-	[NUMB_0.5_12]	*								LABS inr				FALSE	
+451	ldl	_:=-	[NUMB]	*								LABS ldl				FALSE	
+452	tg|tri|trig|trigs|triglyceride|triglycerides	_:=-	[NUMB]	*								LABS triglycerides				FALSE	
+453	ch|chol|choles|cholesterol	_:=-	[NUMB]	*								LABS cholesterol				FALSE	
+454	inr		[NUMB_0.7_12]	*								LABS inr				FALSE	
+455	[NUMB]		mg|mcg|g|gram|grams	*							ignore	ignore				FALSE	
+456	med|sick|medical		3|4|5|6|cert|certificate		[DURA]|[DATE]	*					sicknote	sicknote	sicknote			FALSE	
+457	cert|certificate		[DURA]	*							sicknote	sicknote				FALSE	
+458	[CLIN]		[DURA]	*							_	duraprev				FALSE	
 484	hba		1		c	*	[NUMB]	*			ignore	ignore	ignore	LABS glyhb		FALSE	
 486	hba		1		c	*					ignore	ignore	ignore			FALSE	
 488	target|guideline|guidelines|guidance|ideal|ideally	*									normalrange					FALSE	
@@ -42,15 +44,12 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 512	id|number|no	:=	[NUMB]	*							anon	anon				FALSE	
 540	[NUMB_60_230]		/		[NUMB_40_150]	*					LABS sysbp	ignore	LABS diabp			FALSE	
 541	[NUMB_60_230]	/	[NUMB_40_150]	*							LABS sysbp	LABS diabp				FALSE	
-542	peak|pk		flow|fl	*	[NUMB]	*							LABS pefr			FALSE	
+542	peak|pk		flow|fl	*	[NUMB_50_900]	*							LABS pefr			FALSE	
 543	pf|pef|pefr|pfr	_:=-	[NUMB_50_900]	*								LABS pefr				FALSE	
 544	pred|predicted|usual|best|normal	.=:	[ATTR pefr]	*							anon	anon				FALSE	
-545	pred|predicted|usual|best|normal		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE	
+545	pred|predicted|usual|best|normal|ever		pf|pfr|pef|pefr|ever	_.:=	[NUMB_150_900]	*					anon	anon	anon			FALSE	
 546	[ATTR pefr]		usually|best|pred|predicted	*							anon	anon				FALSE	
-549	last|history|[NUMB]		yr|yrs|year|years|mth|mths|month|months|of		[CLIN]	*					pmh	pmh	pmh			FALSE	
-550	had|several|freq|frequent|prev|previous|previously|recurrent		[CLIN]	*							pmh	pmh				FALSE	
-552	[CLIN]		[DURA]	*	[DURA]		ago	*				duraprev	duraprev	ignore		FALSE	
-553	for		nearly|almost|about		[DURA]	*					ignore	.	.			FALSE	
+547	[ATTR pefr]		when		well|ok|good	*					anon	anon	anon			FALSE	
 554	t		3|4	*							ignore	anon				FALSE	
 555	t		3	_:=-	[NUMB]	*							LABS trithyroid			FALSE	
 556	t		4	_:=-	[NUMB]	*							LABS tetrathyroid			FALSE	
@@ -66,20 +65,21 @@ order	w1	p1	w2	p2	w3	p3	w4	p4	w5	p5	a1	a2	a3	a4	a5	death_only	comment
 566	[ATTR followup]		[CLIN]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*	followup	followup	followup	followup	followup	FALSE	
 567	[ATTR_followup]		[CLIN]		in|on|within		[DATE_full]|[DURA]	*			followup	followup	followup	followup		FALSE	
 568	[ATTR followup]		[CLIN]		[CLIN]		[DURA]|[DATE]	*			followup	_	_	followup		FALSE	
-569	pl|plt|plts|platelets|plat	_:=-	[NUMB_20_800]	*								LABS platelets				FALSE	
-572	esr	_:=-	[NUMB]	*								LABS esr				FALSE	
-573	inr	_:=-	[NUMB_0.5_12]	*								LABS inr				FALSE	
-576	ldl	_:=-	[NUMB]	*								LABS ldl				FALSE	
-577	tg|tri|trig|trigs|triglyceride|triglycerides	_:=-	[NUMB]	*								LABS triglycerides				FALSE	
-578	inr		[NUMB_0.7_12]	*								LABS inr				FALSE	
-579	[DURA]		ago|prev|previous|previously		causing|preceding		[CLIN]	*			duranext	ignore		ignore		FALSE	
-580	[DURA]		ago|prev|previous|previously		followed|leading|comp|complicated		by|to		[CLIN]	*	duranext	ignore	ignore	ignore	causing	FALSE	
-581	[DURA]		[DURA]		after|post		[CLIN]	*			duraprev	duraprev	ignore	_		FALSE	
-582	ch|chol|choles|cholesterol	_:=-	[NUMB]	*								LABS cholesterol				FALSE	
+570	age|aged	*	[DURA]	*							age	age				FALSE	
+571	[CLIN]		over|for|during		past|last		[DURA]	*			_	ignore	ignore	duraprev		FALSE	
+572	[CLIN]		since|for|last|past		[DURA]	*					_	duraprev	duraprev			FALSE	
+573	[DURA]		hx|hist|history		of		[CLIN]	*			duranext	ignore	ignore	_		FALSE	
+574	[DURA]		hx|of|history		[CLIN]	*					duranext	ignore	_			FALSE	
+575	[DURA]		[CLIN]	*							duranext	_				FALSE	
+576	[CLIN]		from|until|upto|at|when|while|[CLIN]		[ATTR age]		[ATTR age]	*			pmh	pmh	ageprev	ageprev		FALSE	
+577	last|history|[NUMB]		yr|yrs|year|years|mth|mths|month|months|of		[CLIN]	*					pmh	pmh	pmh			FALSE	
+578	had|several|freq|frequent|prev|previous|previously|recurrent		[CLIN]	*							pmh	pmh				FALSE	
+579	[CLIN]		[DURA]	*	[DURA]		ago	*				duraprev	duraprev	ignore		FALSE	
+580	for		nearly|almost|about		[DURA]	*					ignore	.	.			FALSE	
+581	[DURA]		ago|prev|previous|previously		causing|preceding		[CLIN]	*			duranext	ignore		ignore		FALSE	
+582	[DURA]		ago|prev|previous|previously		followed|leading|comp|complicated		by|to		[CLIN]	*	duranext	ignore	ignore	ignore	causing	FALSE	
+583	[DURA]		[DURA]		after|post		[CLIN]	*			duraprev	duraprev	ignore	_		FALSE	
 592	[DURA]	*	[DURA]		old	*					age	age	age			FALSE	
-593	[NUMB]		mg|mcg|g|gram|grams	*							ignore	ignore				FALSE	
-595	pulse|pulserate|hr|heartrate		was|sinus|reg|regular|irreg|irregular	_:=-	[NUMB_20_300]	*							LABS pulse			FALSE	
-600	heart|pulse		rate		[NUMB_20_300]	*							LABS pulse			FALSE	
 603	if		*		then|refer|treat						possibility	possibility	possibility			FALSE	
 611	son|daughter|grandfather|grandmother|relative|relation|family	*									family					FALSE	
 612	husband|wife|spouse|partner|husbands|wifes	*									family					FALSE	
