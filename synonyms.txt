@@ -1117,9 +1117,15 @@ lms	left main stem	4
 ln	lymph node	4	
 ln	lymph nodes	4	
 loc	loss of consciousness	4	
-loss of	narrowing	3	
-loss of consciousness	l o c	4	
-loss of consciousness	loc	4	
+loss consciousness	l o c	4	
+loss consciousness	loc	4	
+loss smell	anosmia	4	
+loss smell	loss smell sense	4	
+loss smell	problem with smell	2	
+loss smell	problems with smell	2	
+loss taste	problem with taste	2	
+loss taste	problems with taste	2	
+loss taste	taste disorder	2	
 low	lower	5	
 lower	low	5	
 lower end humerus	distal humerus	1	
@@ -1510,6 +1516,7 @@ previous	history of	3
 prim	primary	2	
 prob	problem	4	
 problem	prob	4	
+problem	disorder	2	
 proprioception	joint position sense	5	
 proprioception	joint posn sense	5	
 prostate	prostatic	4	
