@@ -10744,30 +10744,30 @@ medcode	stdterm	attrstring	linkto	comment
 620012	 test confirmed covid 19 	TTTT	500012	
 620013	 covid 19 pneumonia 	TTT	500013	
 620014	 asymptomatic covid 19 	TTT	500014	
-620015	 acute covid 19 	TTTT	500015	
-620016	 acute bronchitis due to covid 19 	TTTT	500016	
-620017	 covid 19 myocarditis 	TIITT	500017	
-620018	 covid 19 lymphopenia 	TIITT	500018	
-620019	 covid 19 lymphopaenia 	TIITT	500018	
-620020	 covid 19 lymphocytopenia 	TIITT	500018	
-620021	 covid 19 otitis media 	TTIITT	500019	
+620015	 acute covid 19 	TTT	500015	
+620016	 acute bronchitis due to covid 19 	TTIITT	500016	
+620017	 covid 19 myocarditis 	TTT	500017	
+620018	 covid 19 lymphopenia 	TTT	500018	
+620019	 covid 19 lymphopaenia 	TTT	500018	
+620020	 covid 19 lymphocytopenia 	TTT	500018	
+620021	 covid 19 otitis media 	TTTT	500019	
 620022	 ongoing symptomatic covid 19 	TTTT	500020	
-620023	 covid 19 encephalopathy 	TIITT	500021	
-620024	 covid 19 conjunctivitis 	TIITT	500022	
-620025	 covid 19 cardiomyopathy 	TIITT	500023	
-620026	 covid 19 myocarditis 	TIITT	500024	
+620023	 covid 19 encephalopathy 	TTT	500021	
+620024	 covid 19 conjunctivitis 	TTT	500022	
+620025	 covid 19 cardiomyopathy 	TTT	500023	
+620026	 covid 19 myocarditis 	TTT	500024	
 620027	 covid 19 lower respiratory infection 	TTTTT	500025	
-620028	 covid 19 lrti 	TTTTT	500025	
-620029	 sepsis due to covid 19 	TIITIITT	500026	
-620030	 covid 19 sepsis 	TIITIITT	500026	
+620028	 covid 19 lrti 	TTT	500025	
+620029	 sepsis due to covid 19 	TIITT	500026	
+620030	 covid 19 sepsis 	TTT	500026	
 620031	 covid 19 acute respiratory distress syndrome 	TTTTTT	500027	
-620032	 covid 19 rhabdomyolysis 	TIITIITT	500028	
-620033	 rhabdomyolysis due to covid 19 	TIITIITT	500028	
-620034	 covid 19 acute kidney injury 	TTTIITIITT	500029	
-620035	 acute kidney injury due to covid 19 	TTTIITIITT	500029	
-620036	 covid 19 type 1 respiratory failure 	TTTTIITIITT	500030	
-620037	 type 1 respiratory failure due to covid 19 	TTTTIITIITT	500030	
-620038	 long covid 	TTTT	500031	
+620032	 covid 19 rhabdomyolysis 	TTT	500028	
+620033	 rhabdomyolysis due to covid 19 	TIITT	500028	
+620034	 covid 19 acute kidney injury 	TTTTT	500029	
+620035	 acute kidney injury due to covid 19 	TTTIITT	500029	
+620036	 covid 19 type 1 respiratory failure 	TTTTTT	500030	
+620037	 type 1 respiratory failure due to covid 19 	TTTTIITT	500030	
+620038	 long covid 	TT	500031	
 620039	 severe acute respiratory syndrome coronavirus 2 detected 	TTTTTTT	500033	
 620040	 sars cov 2 test positive 	TTTTT	500033	
 620041	 covid 19 test positive 	TTTT	500033	
