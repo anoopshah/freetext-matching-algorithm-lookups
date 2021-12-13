@@ -23,7 +23,7 @@ medcode	term	stdterm	attrstring	comment
 500021	Encephalopathy due to COVID-19	 encephalopathy due to covid 19 	TIITT	
 500022	Conjunctivitis due to COVID-19	 conjunctivitis due to covid 19 	TIITT	
 500023	Cardiomyopathy due to COVID-19	 cardiomyopathy due to covid 19 	TIITT	
-500024	Thrombocytopenia due to COVID-19	 myocarditis due to covid 19 	TIITT	
+500024	Thrombocytopenia due to COVID-19	 thrombocytopenia due to covid 19 	TIITT	
 500025	COVID-19 lower respiratory infection	 covid 19 lower respiratory infection 	TTTTT	
 500026	Sepsis due to disease caused by COVID-19	 sepsis due to disease caused by covid 19 	TIITIITT	
 500027	COVID-19 acute respiratory distress syndrome	 covid 19 acute respiratory distress syndrome 	TTTTTT	
