@@ -10755,7 +10755,7 @@ medcode	stdterm	attrstring	linkto	comment
 620023	 covid 19 encephalopathy 	TTT	500021	
 620024	 covid 19 conjunctivitis 	TTT	500022	
 620025	 covid 19 cardiomyopathy 	TTT	500023	
-620026	 covid 19 myocarditis 	TTT	500024	
+620026	 covid 19 thrombocytopenia 	TTT	500024	
 620027	 covid 19 lower respiratory infection 	TTTTT	500025	
 620028	 covid 19 lrti 	TTT	500025	
 620029	 sepsis due to covid 19 	TIITT	500026	
@@ -10776,5 +10776,5 @@ medcode	stdterm	attrstring	linkto	comment
 620044	 covid 19 detected 	TTT	500033	
 620045	 covid test positive 	TTT	500033	
 620046	 covid swab positive 	TTT	500033	
-620047	 covid 19 pcr positive 	TTT	500033	
-620048	 covid 19 rna detected 	TTT	500033	
+620047	 covid 19 pcr positive 	TTTT	500033	
+620048	 covid 19 rna detected 	TTTT	500033	
