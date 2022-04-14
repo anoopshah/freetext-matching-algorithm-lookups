@@ -598,7 +598,7 @@ medcode	stdterm	attrstring	linkto	comment
 600597	 rectal examination abnormal 	TTT	24713	
 600598	 borborygmus 	T	1370	
 600599	 giordano sign 	TT	6441	
-600600	 giordano sign negativeative 	TTT	6441	
+600600	 giordano sign negative 	TTT	6441	
 600601	 giordano sign positive 	TTT	6441	
 600602	 kidney enlarged 	TT	29311	
 600603	 tenderness renal bed 	TTT	17029	
@@ -872,7 +872,7 @@ medcode	stdterm	attrstring	linkto	comment
 600871	 folic acid blood level 	TTTT	3431	
 600872	 folic acid blood level normal 	TTTTT	19762	
 600873	 hepatitis b non immune 	TTTT	2243	
-600874	 hiv antibody test negativeative 	TTTT	4253	
+600874	 hiv antibody test negative 	TTTT	4253	
 600875	 hiv antiboby test positive 	TTTT	2835	
 600876	 msu normal 	TT	2270	
 600877	 msu abnormal 	TT	12199	
@@ -880,8 +880,8 @@ medcode	stdterm	attrstring	linkto	comment
 600879	 urine ketones positive 	TTT	13610	
 600880	 urine culture positive growth 	TTTT	16511	
 600881	 inadequate specimen cervical smear 	TTTT	3644	
-600882	 negativeative cervical smear 	TTT	11	
-600883	 pap smear negativeative 	TTT	11	
+600882	 negative cervical smear 	TTT	11	
+600883	 pap smear negative 	TTT	11	
 600884	 mild dysplasia cervical smear 	TTTT	5190	
 600885	 colposcopy cin i 	TTT	1341	
 600886	 cervical smear cin i 	TTTT	1341	
@@ -3423,7 +3423,7 @@ medcode	stdterm	attrstring	linkto	comment
 603422	 abscess meninges haemophilus influenza 	TTTT	2845	
 603423	 meningitis haemophilus influenzae 	TTT	2845	
 603424	 abscess meninges pneumococcal 	TTT	4605	
-603425	 meningitis gram negativeative 	TTT	97348	
+603425	 meningitis gram negative 	TTT	97348	
 603426	 meningitis escherichia coli 	TTT	46388	
 603427	 meningitis lymphocytic benign 	TTT	2422	
 603428	 postinfective meningitis 	TT	48106	
@@ -7402,7 +7402,7 @@ medcode	stdterm	attrstring	linkto	comment
 607401	 rheumatoid disease 	TT	844	
 607402	 rheumatoid arthritis spine 	TTT	44203	
 607403	 spondylitis rheumatoid 	TT	44203	
-607404	 sero negativeative rheumatoid arthritis 	TTTT	6916	
+607404	 sero negative rheumatoid arthritis 	TTTT	6916	
 607405	 rheumatoid arthritis increased activity 	TTTT	8350	
 607406	 syndrome felty 	TT	23552	
 607407	 rheumatoid nodules 	TT	5723	
@@ -7410,7 +7410,7 @@ medcode	stdterm	attrstring	linkto	comment
 607409	 rheumatoid arthritis juvenile 	TTT	4186	
 607410	 still disease 	TT	4186	
 607411	 rheumatic arthritis 	TT	3944	
-607412	 arthritis sero negativeative 	TTT	4578	
+607412	 arthritis sero negative 	TTT	4578	
 607413	 osteoarthropathy 	T	3057	
 607414	 oa osteo arthritis 	TTT	3057	
 607415	 osteoarthrosis 	T	396	
