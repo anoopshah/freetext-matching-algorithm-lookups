@@ -255,11 +255,8 @@ bleeding vaginal	bpv	3
 block	blockage	5	
 block	blocked	5	
 blockage	block	5	
-blockage	stenosis	5	
 blocked	block	5	
 blocked	disease	2	
-blocked	stenosed	5	
-blocked	stenosis	5	
 bnp	brain natriuretic peptide	4	
 body lice	pediculus corporis	3	
 body surface	bs	4	
@@ -1231,7 +1228,6 @@ milk exclusion	milk free diet	3
 milligram	mg	5	
 milti	multi	1	
 minor	major	-100	
-mitralstenos	mitral stenosis	3	
 mmr	measles mumps and rubella	4	
 mmr	measles mumps rubella	3	
 mmr	mmr immunisation	3	
@@ -1361,10 +1357,8 @@ obstructive	obstruct	4
 occ	occuring	4	
 occluded	disease	1	
 occluded	occlusion	5	
-occluded	stenosis	5	
 occlusion	disease	1	
 occlusion	occluded	5	
-occlusion	stenosis	5	
 occuring	occ	4	
 ocd	obsessive compulsive disorder	3	
 oe nad	examination normal	3	
@@ -1780,13 +1774,7 @@ staph	staphylococcus	5
 staphylococcus	staph	5	
 std	sexually transmitted disease	2	
 stemi	acute st segment elevation myocardial infarction	4	
-stenosed	blocked	5	
-stenosed	stenosis	5	
-stenosis	blockage	5	
-stenosis	blocked	5	
 stenosis	disease	1	
-stenosis	occluded	5	
-stenosis	occlusion	5	
 stenosis	severe stenosis	2	
 stenosis	stenosed	5	
 stenosis	tight stenosis	2	
