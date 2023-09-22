@@ -595,13 +595,12 @@ discrimination	discrim	5
 diseas	disease	3	
 disease	dis	4	
 disease	diseases	5	
-disease	lesion	4	
-disease	stenosis	3	
+disease	lesion	2	
 disease caused by covid 19	covid 19	4	COVID-19
 disease due to covid 19	covid 19	4	COVID-19
 diseaseand	disease	1	
 diseaseand	disease and	2	
-diseased	lesion	4	
+diseased	lesion	2	
 diseased vessel	coronary vessel disease	2	
 diseased vessel	vessel disease	5	
 diseased vessels	coronary vessel disease	2	
@@ -1105,8 +1104,8 @@ leg	lower limb	1
 leg oedema	legs oedematous	5	
 leg oedema	oedematous ankles	3	
 legs oedematous	leg oedema	5	
-lesion	disease	4	
-lesion	diseased	4	
+lesion	disease	1	
+lesion	diseased	1	
 lh	luteinising hormone	3	
 little finger	finger	1	
 little toe	toe	2	
@@ -1360,10 +1359,10 @@ object	obj	4
 obstruct	obstructive	4	
 obstructive	obstruct	4	
 occ	occuring	4	
-occluded	disease	2	
+occluded	disease	1	
 occluded	occlusion	5	
 occluded	stenosis	5	
-occlusion	disease	2	
+occlusion	disease	1	
 occlusion	occluded	5	
 occlusion	stenosis	5	
 occuring	occ	4	
@@ -1785,12 +1784,12 @@ stenosed	blocked	5
 stenosed	stenosis	5	
 stenosis	blockage	5	
 stenosis	blocked	5	
-stenosis	disease	3	
+stenosis	disease	1	
 stenosis	occluded	5	
 stenosis	occlusion	5	
-stenosis	severe stenosis	4	
+stenosis	severe stenosis	2	
 stenosis	stenosed	5	
-stenosis	tight stenosis	5	
+stenosis	tight stenosis	2	
 stidor	stridor	3	
 stiff	stiffness	3	
 stiffness	stiff	3	
