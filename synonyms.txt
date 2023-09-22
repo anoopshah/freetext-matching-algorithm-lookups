@@ -11,16 +11,16 @@ text	read	priority	comment
 2 ndary to	due to	2	
 2 ndary to	secondary to	3	
 2 ndry	secondary	4	
-2 prev	previous multiple	3	
-2 previous	previous multiple	3	
+2 prev	previous multiple	1	
+2 previous	previous multiple	1	
 2 v d	double coronary vessel disease	3	
 2 vd	double coronary vessel disease	2	
 2 vessel disease	double coronary vessel disease	3	
 3	three	5	
 3	triple	4	
 3 diseased vessels	triple coronary vessel disease	3	
-3 prev	previous multiple	3	
-3 previous	previous multiple	3	
+3 prev	previous multiple	1	
+3 previous	previous multiple	1	
 3 rd	third	5	
 3 v d	triple coronary vessel disease	3	
 3 v d	triple vessel disease of the heart	2	
@@ -30,8 +30,8 @@ text	read	priority	comment
 3 vessel disease	triple coronary vessel disease	3	
 3 vessel disease	triple vessel disease of the heart	2	
 4	four	5	
-4 prev	previous multiple	3	
-4 previous	previous multiple	3	
+4 prev	previous multiple	1	
+4 previous	previous multiple	1	
 a / n	antenatal	5	
 a a a	abdominal aortic aneurysm	4	
 a and e	a and e department	5	
@@ -146,7 +146,7 @@ aki	acute renal impairment	3
 alcoholic liver disease	alcoholic liver damage	2	
 allergic	adverse reaction to	1	
 allergic	allergy	5	
-allergic to	adverse reaction to	3	
+allergic to	adverse reaction to	1	
 allergy	allergic	5	
 alzheimer	alzheimer disease	3	
 amd	senile macular degeneration	3	
