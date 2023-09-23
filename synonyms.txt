@@ -623,8 +623,8 @@ does not	doesn t	5
 doesn t	does not	5	
 dorsalis pedis	dorsalis pedis pulse	5	
 dorsalis pedis pulse	dorsalis pedis	5	
-double	2	4	
-double	two	5	
+double	2	1	
+double	two	1	
 drinker	drinks	3	
 drinks	drinker	3	
 drooping	droopy	3	
@@ -1731,8 +1731,8 @@ side effects	adverse reaction to	2
 side effects of	adverse reaction to	2	
 sided	side	5	
 sids	sudden infant death syndrome	3	
-single	1	4	
-single	one	5	
+single	1	1	
+single	one	1	
 single vessel disease	single coronary vessel disease	3	
 sinus nad	no sinus disease	4	
 sinus normal	no sinus disease	4	
@@ -1912,8 +1912,8 @@ trauma	traumatic	4
 trauma self referral	casualty self referral	3	
 traumatic	traum	4	
 traumatic	trauma	4	
-triple	3	4	
-triple	three	5	
+triple	3	1	
+triple	three	1	
 triple coronary vessel disease	three diseased vessels	5	
 triple vessel coronary disease	triple vessel disease of the heart	5	
 triple vessel disease	three vessel disease	4	
