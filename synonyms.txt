@@ -1103,6 +1103,9 @@ leg oedema	oedematous ankles	3
 legs oedematous	leg oedema	5	
 lesion	disease	1	
 lesion	diseased	1	
+lft	liver function test	3	
+lft	liver function tests	3	
+lfts	liver function tests	3	
 lh	luteinising hormone	3	
 lima	left internal mammary artery	4	
 little finger	finger	1	
