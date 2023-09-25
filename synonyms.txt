@@ -1104,6 +1104,7 @@ legs oedematous	leg oedema	5
 lesion	disease	1	
 lesion	diseased	1	
 lh	luteinising hormone	3	
+lima	left internal mammary artery	4	
 little finger	finger	1	
 little toe	toe	2	
 liver	hepatic	3	
@@ -1195,6 +1196,7 @@ malunion	mal union	5
 mau	hospital	1	
 maxillary sinus	sinuses	1	
 maxillary sinuses	sinuses	1	
+mca	middle cerebral artery	4	
 measles / mumps / rubella	mmr	3	
 measles mumps and rubella	mmr	4	
 measles mumps rubella	mmr	3	
@@ -1444,6 +1446,7 @@ paracetamol	drug	1
 parity	para	5	
 parkinsons	parkinson disease	3	
 paroxysmal nocturnal dyspnoea	p n d	4	
+pca	posterior cerebral artery	4	
 pda	posterior descending artery	4	
 pe	pulmonary embolus	3	
 pedal cycle	bicycle	5	
