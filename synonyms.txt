@@ -1893,6 +1893,7 @@ tibc	total iron binding capacity	5
 tibia	tibial	5	
 tibial	tib	5	
 tibial	tibia	5	
+tic bite  tick bite  3  
 tight stenosis	severe stenosis	4	
 tight stenosis	stenosis	5	
 tired all the time	t a t t	5	
